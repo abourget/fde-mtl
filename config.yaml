@@ -20,7 +20,7 @@ Multilingual:
   fr:
     weight: 1
 
-    title: "Famille, développement et éducation"
+    title: "FDE Montréal"
     languageCode: "fr-CA"
 
     copyright: "(ɔ) 2015 FDE Montréal. Tous droits renversés."
@@ -28,7 +28,7 @@ Multilingual:
   en:
     weight: 2
 
-    title: "Family, Development and Education"
+    title: "FDE Montreal"
     languageCode: "en-CA"
 
     copyright: "(ɔ) 2015 Copyleft. FDE Montreal."

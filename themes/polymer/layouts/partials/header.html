@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=yes">
   <title>{{ .Title }} - {{ .Site.Title}}</title>
-  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:title" content="{{ .Title }} - {{ .Site.Title}}" />
   <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
   <meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
