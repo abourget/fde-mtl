@@ -6,7 +6,7 @@ title: Parenting for Character, by Dr. Andrew Mulling - June 5th 2016
 
 ---
 
-## Parenting for Character in Today's World
+#### Parenting for Character in Today's World
 
 Dr. Andrew Mullins is an Adjunct Associate Professor at University of Notre
 Dame, Australia.
