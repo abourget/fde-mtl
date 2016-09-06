@@ -1,7 +1,7 @@
 ---
 date: 2016-08-17T12:00:00-04:00
 
-title: "Premières décisions - Longueuil"
+title: "Premières décisions (8-11 ans)"
 session:
   title: "Premières décisions"
   start_date: "vendredi le 23 septembre 2016"
