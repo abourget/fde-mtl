@@ -81,6 +81,7 @@
           var newX = lastX + cardWidth;
           if (newX < cardWidth) {
             this.$.courses.style.transform = 'translate3d(' + newX + 'px, 0, 0)';
+            this.$.courses.style.webkitTransform = '-webkit-translate3d(' + newX + 'px, 0, 0)';
           }
         },
 
@@ -98,6 +99,7 @@
           var newX = lastX - cardWidth;
           if (lastCardLeft > containerWidth) {
             this.$.courses.style.transform = 'translate3d(' + newX + 'px, 0, 0)';
+            this.$.courses.style.webkitTransform = '-webkit-translate3d(' + newX + 'px, 0, 0)';
           }
         }
       });
