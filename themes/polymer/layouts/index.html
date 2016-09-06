@@ -16,8 +16,7 @@
 
 <section>
   <div class="container">
-    <h2 id="offered-courses">{{ i18n "offered_courses" }}</h2>
-    <featured-courses>
+    <featured-courses title="{{ i18n "offered_courses" }}">
     {{ range .Site.Sections.sessions }}
 
       {{ $.Scratch.Set "p" .Page }}
