@@ -2,13 +2,11 @@
 categories:
  - news
 date: 2016-01-15T01:29:35-05:00
-title: Parenting for Character, par Dr. Andrew Mulling - Le 5 juin 2016
+title: Parenting for Character, par Dr. Andrew Mullins - Le 5 juin 2016
 
 ---
 
-La conférence sera traduite simultanément en français.
-
-#### Parenting for Character in Today's World
+**La conférence sera traduite simultanément en français.**
 
 Dr. Andrew Mullins is an Adjunct Associate Professor at University of Notre
 Dame, Australia.
