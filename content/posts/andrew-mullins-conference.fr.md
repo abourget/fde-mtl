@@ -30,4 +30,4 @@ development and neuroscience.
 
 <!--more-->
 
-![Conference-ad](/static/posts/andrew-mullins-conference.png)
+![Conference-ad](/images/posts/andrew-mullins-conference.png)
