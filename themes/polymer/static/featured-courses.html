@@ -53,31 +53,23 @@
   <script>
     (function () {
       'use strict';
-
-      class FeaturedCourses {
-
-        get behaviors() {
+      Polymer({
+        is: "featured-courses",
+        properties: {
+          courses: {
+            type: Array,
+            observer: '_coursesChanged'
+          },
+          _courses: Array,
+          _selectedVideo: Object
+        },
+        behaviors: function() {
           return [];
-        }
-
-        beforeRegister() {
-          this.is = this.constructor.name.replace(/\W+/g, '-')
-            .replace(/([a-z\d])([A-Z])/g, '$1-$2').toLowerCase();
-          this.properties = {
-            courses: {
-              type: Array,
-              observer: '_coursesChanged'
-            },
-            _courses: Array,
-            _selectedVideo: Object
-          };
-        }
-
-        _coursesChanged() {
+        },
+        _coursesChanged: function() {
           this._courses = this._randomOrder(this.courses).slice(0, 6);
-        }
-
-        shiftContentLeft() {
+        },
+        shiftContentLeft: function() {
           var transform = this.$.courses.style.transform;
           var courses = Polymer.dom(this.root).querySelector('#courses').children;
 
@@ -90,9 +82,9 @@
           if (newX < cardWidth) {
             this.$.courses.style.transform = 'translate3d(' + newX + 'px, 0, 0)';
           }
-        }
+        },
 
-        shiftContentRight() {
+        shiftContentRight: function() {
           var transform = this.$.courses.style.transform;
           var courses = Polymer.dom(this.root).querySelector('#courses').children;
 
@@ -108,11 +100,7 @@
             this.$.courses.style.transform = 'translate3d(' + newX + 'px, 0, 0)';
           }
         }
-
-      }
-
-      Polymer(FeaturedCourses);
-
+      });
     })();
   </script>
 
