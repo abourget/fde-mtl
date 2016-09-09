@@ -15,22 +15,22 @@ venue:
   zoom: 17
 schedule:
  - case: 1
-   date: "Friday, September 23rd 2016"
+   date: "Friday, October 21st, 2016"
  - case: 2
    groups: true
-   date: "Friday, October 21st, 2016"
+   date: Friday, November 25th, 2016
  - case: 3
    groups: true
-   date: Friday, November 25th, 2016
+   date: Friday, January 27th, 2017
  - case: 4
    groups: true
-   date: Friday, January 27th, 2017
+   date: Friday, March 17th, 2017
  - case: 5
    groups: true
-   date: Friday, March 17th, 2017
+   date: Friday, April 21st, 2017
  - case: 6
    groups: true
-   date: Friday, April 21st, 2017
+   date: Friday, May 26th, 2017
 time:
   from: "7:30pm"
   to: "9:30pm"
