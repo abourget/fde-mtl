@@ -4,7 +4,7 @@ date: 2016-08-16T12:00:00-04:00
 title: "First Steps - McGill"
 session:
   title: "First Steps"
-  start_date: "Friday, September 23rd 2016"
+  start_date: "Friday, October 21st 2016"
   course_image: "first-steps.jpg"
 venue:
   name: "McGill University, MacDonald Engineering building"
