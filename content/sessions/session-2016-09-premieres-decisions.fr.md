@@ -44,3 +44,25 @@ registration:
 
 À compter du vendredi 23 septembre 2016, FDE Montréal (anciennement Projet
 Famille) offre le cours **Premières décisions** à Longueuil.
+
+Ce cours s'adresse aux parents d'enfants âgés de 8 à 11 ans.
+
+À ces âges, les enfants deviennent plus en plus confortables dans leur
+environnement. Ils prennent bientôt plusieurs décisions personnelles
+liées aux situations quotidiennes qu'ils rencontrent. Pour les aider à
+faire des choix judicieux, nos enfants ont besoin d'une échelle de
+valeurs à laquelle ils peuvent se référer.
+
+Dans ce cours, les parents analysent l'importance d'une échelle de
+valeurs claire et développement des habiletés pour transmettre ces
+valeurs à leurs enfants.
+
+Thèmes abordés:
+
+* L'autorité parentale
+* L'usage des médias
+* La conciliation travail-famille
+* Les traits de caractère
+* Les premières décisions, et périodes sensibles.
+* L'éducation à l'amour
+
