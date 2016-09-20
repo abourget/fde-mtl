@@ -12,8 +12,8 @@ menu:
 ### Faits / Problèmes / Solutions
 
 La méthode [d'étude de cas](https://fr.wikipedia.org/wiki/M%C3%A9thode_des_cas),
-élaborée à la Harvard Business School il y a un siècle déjà, est largement
-utilisée dans l'enseignement de la médecine, l'administration des affaires et du
+élaborée à la Harvard Business School il y a un plus d'un siècle déjà, est largement
+utilisée dans l'enseignement de la médecine, de l'administration des affaires et du
 droit.
 
 {{< youtube eA5R41F7d9Q >}}
