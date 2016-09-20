@@ -19,7 +19,7 @@ droit.
 {{< youtube eA5R41F7d9Q >}}
 
 L'IFFD a appliqué à la méthodologie d'apprentissage par cas aux défis de la
-communication dans le couple et dans la famille.
+communication dans le couple et dans l'éducation des enfants.
 
 Dans chaque étape de l'application de la méthode, l'accent est mis sur:
 
