@@ -39,7 +39,6 @@ cost:
   per_couple: true
 registration:
   registration_form: "https://docs.google.com/forms/d/e/1FAIpQLSfnwaEJuYes8yiOHPLUst34BlbIaKcWXSSlN3g0AhKaUXLexw/viewform"
-  deadline: "Friday, September 23rd 2016"
   paypal_item: "CYLGDWG43P5FJ"
 ---
 
