@@ -32,8 +32,8 @@ schedule:
    groups: true
    date: "Vendredi, 14 avril 2017"
 time:
-  from: "19h30"
-  to: "21h30"
+  from: "19 h 30"
+  to: "21 h 30"
 cost:
   amount: 125
   per_couple: true

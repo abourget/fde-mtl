@@ -29,8 +29,8 @@ schedule:
    groups: true
    date: "Vendredi, 25 avril 2014"
 time:
-  from: "19h"
-  to: "21h30"
+  from: "19 h"
+  to: "21 h 30"
 past: true
 ---
 

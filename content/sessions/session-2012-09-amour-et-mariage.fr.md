@@ -29,8 +29,8 @@ schedule:
    groups: true
    date: "Vendredi, 10 mai 2013"
 time:
-  from: "19h"
-  to: "21h30"
+  from: "19 h"
+  to: "21 h 30"
 registration:
   registration_form:
   deadline: "8 septembre 2012"

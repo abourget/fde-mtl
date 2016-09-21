@@ -17,8 +17,8 @@ schedule:
  - case: 1
    date: "Vendredi, 22 septembre 2013"
 time:
-  from: "19h30"
-  to: "22h00"
+  from: "19 h 30"
+  to: "22 h 00"
 past: true
 ---
 
