@@ -47,15 +47,16 @@ Famille) offre le cours **Premières décisions** à Longueuil.
 
 Ce cours s'adresse aux parents d'enfants de 8 à 11 ans.
 
-À ces âges, les enfants deviennent plus en plus confortables dans leur
-environnement. Ils prennent bientôt plusieurs décisions personnelles
-liées aux situations quotidiennes qu'ils rencontrent. Pour les aider à
-faire des choix judicieux, nos enfants ont besoin d'une échelle de
-valeurs à laquelle ils peuvent se référer.
+Les enfants de cette tranche d'âge se sentent de plus en plus à l'aise
+dans le milieu dans lequel ils vivent. Ils sont bientôt amenés à
+prendre une foule de décisions dans les situations qui se présentent à
+eux quotidiennement. Pour leur permettre de faire des choix judicieux,
+nos enfants ont besoin d'une échelle de valeurs à laquelle ils peuvent
+se référer.
 
-Dans ce cours, les parents analysent l'importance d'une échelle de
-valeurs claire et développement des habiletés pour transmettre ces
-valeurs à leurs enfants.
+Dans ce cours, les parents réfléchissent à l'importance de vivre selon
+un ensemble de valeurs, et acquièrent des habiletés pour transmettre
+ces valeurs à leurs enfants.
 
 Thèmes abordés :
 
