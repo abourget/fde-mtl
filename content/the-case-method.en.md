@@ -22,9 +22,9 @@ to the challenges of communication in the couple and family.
 
 In each step of the application, emphasis is given to:
 
-1. **Facts**: events, claims or situations of the case study, on which **all
-   participants agree**.  These are not interpretations, presumed or plausible
-   causes, rather **obvious facts**.
+1. **Facts**: events, claims or situations in the text of the case study. They
+   are not interpretations, presumed or plausible causes. They must be
+   unanimously recognized and be undisputed.
 
 2. **Problems**: unresolved difficulties in the text.  Facts tend to point to
    problems that do not always emerge directly from the description of the case.
