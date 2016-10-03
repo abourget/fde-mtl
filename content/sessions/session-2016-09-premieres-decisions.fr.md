@@ -4,7 +4,7 @@ date: 2016-08-17T12:00:00-04:00
 title: "Premières décisions (8-11 ans)"
 session:
   title: "Premières décisions"
-  start_date: "vendredi le 23 septembre 2016"
+  start_date: "vendredi le 28 octobre 2016"
   course_image: "first-decisions.jpg"
 venue:
   name: "Maison Gisèle Auprix-St-Germain, Salle Ste-Élizabeth"
