@@ -45,6 +45,9 @@ registration:
 À compter du vendredi 23 septembre 2016, FDE Montréal (anciennement Projet
 Famille) offre le cours **Premières décisions** à Longueuil.
 
+**Les inscriptions sont toujours ouvertes pour les couples qui veulent se
+joindre pour la session du 28 octobre 2016**
+
 Ce cours s'adresse aux parents d'enfants de 8 à 11 ans.
 
 Les enfants de cette tranche d'âge se sentent de plus en plus à l'aise
