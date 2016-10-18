@@ -1,7 +1,7 @@
 Contribuer
 ==========
 
-Pour modifier le site, il faut:
+Pour modifier le site, il faudra:
 
 * Avoir un compte GitHub (https://github.com/join pour en créer un)
   * Demander à Alexandre Bourget pour avoir accès en écriture
