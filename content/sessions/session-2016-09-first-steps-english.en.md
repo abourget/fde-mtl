@@ -37,9 +37,9 @@ time:
 cost:
   amount: 150
   per_couple: true
-registration:
-  registration_form: "https://docs.google.com/forms/d/e/1FAIpQLSfnwaEJuYes8yiOHPLUst34BlbIaKcWXSSlN3g0AhKaUXLexw/viewform"
-  paypal_item: "CYLGDWG43P5FJ"
+#registration:
+#  registration_form: "https://docs.google.com/forms/d/e/1FAIpQLSfnwaEJuYes8yiOHPLUst34BlbIaKcWXSSlN3g0AhKaUXLexw/viewform"
+#  paypal_item: "CYLGDWG43P5FJ"
 ---
 
 Starting September 23rd 2016, FDE Montreal (previously Projet Famille and Family Enrichment Montreal) offers the **First Steps** course in Montreal.
