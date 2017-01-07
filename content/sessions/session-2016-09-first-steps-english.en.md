@@ -43,7 +43,7 @@ registration:
   paypal_item: "CYLGDWG43P5FJ"
 ---
 
-Starting January 13thrd 2016, FDE Montreal offers the **First Steps** course in Montreal.
+Starting January 13th 2017, FDE Montreal offers the **First Steps** course in Montreal.
 
 This course is for parents with children from birth to 3 years old and couples planning to become parents.
 
