@@ -24,13 +24,13 @@ schedule:
    date: "Vendredi, 25 novembre 2016"
  - case: 4
    groups: true
-   date: "Vendredi, 20 janvier 2017"
+   date: "Annulée - Vendredi, 20 janvier 2017"
  - case: 5
    groups: true
    date: "Vendredi, 24 février 2017"
  - case: 6
    groups: true
-   date: "Vendredi, 14 avril 2017"
+   date: "Vendredi, 7 avril 2017"
 time:
   from: "19 h 30"
   to: "21 h 30"
