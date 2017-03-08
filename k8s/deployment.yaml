@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  annotations:
+    description: FDE Montreal website
+  name: fde-mtl
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: fde-mtl
+    spec:
+      containers:
+      - name: fde-mtl
+        image: 772853327345.dkr.ecr.us-east-1.amazonaws.com/abourget/fde-mtl:latest
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 8080
+          name: fde-mtl
+          protocol: TCP
+      restartPolicy: Always

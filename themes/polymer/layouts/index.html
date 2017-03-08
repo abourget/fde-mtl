@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-{{ $lang := .Site.CurrentLanguage }}
+{{ $lang := .Site.Language.Lang }}
 
 {{ $nextSession := (index .Site.Sections.sessions 0).Page }}
 {{ $venueData := $nextSession.Params.venue }}
@@ -22,7 +22,10 @@
 
       {{ $.Scratch.Set "p" .Page }}
       {{ if ne .Page.Params.session_language nil }}
-        {{ $.Scratch.Set "p" (index .Page.Translations .Page.Params.session_language) }}
+        {{ $untransPage := .Page }}
+        {{ range $tx := .Page.Translations }}{{ if eq $tx.Lang $untransPage.Params.session_language }}
+          {{ $.Scratch.Set "p" $tx }}
+        {{ end }}{{ end }}
       {{ end }}
       {{ $pp := ($.Scratch.Get "p").Params }}
       {{ $p := $.Scratch.Get "p" }}

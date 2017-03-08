@@ -3,7 +3,9 @@
 {{ $p := .Params }}
 
 {{ if ne $p.session_language nil }}
-<html><head><meta http-equiv="refresh" content="0;url={{ (index .Translations $p.session_language).Permalink }}" /></head></html>
+  {{ range .Translations }}{{ if eq .Lang $p.session_language }}
+    <html><head><meta http-equiv="refresh" content="0;url={{ .Permalink }}" /></head></html>
+  {{ end }}{{ end }}
 {{ else }}
 
 
@@ -28,7 +30,7 @@
 
   {{ .Content }}
 
-  {{ printf (i18n "course_offered_and_starts") (i18n (printf "language_%s" $.Site.CurrentLanguage)) }} <strong>{{ $p.session.start_date }}</strong>.
+  {{ printf (i18n "course_offered_and_starts") (i18n (printf "language_%s" $.Site.Language.Lang)) }} <strong>{{ $p.session.start_date }}</strong>.
 
   <h3>{{ i18n "course_schedule" }}</h3>
 
@@ -46,7 +48,7 @@
 <google-map longitude="{{ $p.venue.longitude }}"
             latitude="{{ $p.venue.latitude }}"
             zoom="{{ $p.venue.zoom }}"
-            language="{{ .Site.CurrentLanguage }}" style="height: 330px;"
+            language="{{ .Site.Language.Lang }}" style="height: 330px;"
             disable-zoom="true"
             api-key="AIzaSyAAhXurUtig-L2BqZE-BS5hWLXBxcsqi5A">
   <google-map-marker longitude="{{ $p.venue.longitude }}" latitude="{{ $p.venue.latitude }}"

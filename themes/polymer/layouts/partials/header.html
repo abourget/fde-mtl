@@ -1,5 +1,5 @@
 {{ $baseurl := .Site.BaseURL }}
-{{ $lang := .Site.CurrentLanguage }}
+{{ $lang := .Site.Language.Lang }}
 <!doctype html>
 <html lang="{{.Site.LanguageCode}}">
 <head>
@@ -310,26 +310,20 @@
 
         </div>
 
-        {{if .Site.Multilingual}}
           {{if .IsPage}}
-            {{ range $txLang := .Site.Languages }}
-              {{if ne $lang $txLang}}
-                {{if isset $.Translations $txLang}}
-                  <a href="{{ (index $.Translations $txLang).Permalink }}"><paper-button>{{ i18n ( printf "language_switcher_%s" $txLang ) }}</paper-button></a>
-                {{else}}
-                  <a href="/{{$txLang}}"><paper-button>{{ i18n ( printf "language_switcher_%s" $txLang ) }}</paper-button></a>
-                {{end}}
+            {{if $.IsTranslated }}
+              {{ range $tx := $.Translations }}
+                <a href="{{ $tx.Permalink }}"><paper-button>{{ i18n ( printf "language_switcher_%s" $tx.Lang ) }}</paper-button></a>
               {{end}}
             {{end}}
           {{end}}
 
           {{if .IsNode}}
             {{ range $txLang := .Site.Languages }}
-              {{if ne $lang $txLang}}
-                <a href="/{{$txLang}}"><paper-button>{{ i18n ( printf "language_switcher_%s" $txLang ) }}</paper-button></a>
+              {{if ne $lang $txLang.Lang}}
+                <a href="/{{$txLang.Lang}}"><paper-button>{{ i18n ( printf "language_switcher_%s" $txLang.Lang ) }}</paper-button></a>
               {{end}}
             {{end}}
           {{end}}
-        {{end}}
 
       </paper-toolbar></div>

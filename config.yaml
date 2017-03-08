@@ -16,7 +16,7 @@ menu:
   - main
   - footer
 
-Multilingual:
+Languages:
   fr:
     weight: 1
 
