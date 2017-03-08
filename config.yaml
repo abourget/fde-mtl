@@ -6,7 +6,8 @@ baseurl: "https://fde-mtl.ca"
 paginate: 10
 
 MetaDataFormat: "yaml"
-DefaultContentLang: fr
+defaultContentLang: fr
+defaultContentLanguageInSubdir: true
 
 ignoreFiles:
   - "~$"

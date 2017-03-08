@@ -310,20 +310,20 @@
 
         </div>
 
-          {{if .IsPage}}
-            {{if $.IsTranslated }}
-              {{ range $tx := $.Translations }}
-                <a href="{{ $tx.Permalink }}"><paper-button>{{ i18n ( printf "language_switcher_%s" $tx.Lang ) }}</paper-button></a>
-              {{end}}
+        {{if .IsPage}}
+          {{if $.IsTranslated }}
+            {{ range $tx := $.Translations }}
+              <a href="{{ $tx.Permalink }}"><paper-button>{{ i18n ( printf "language_switcher_%s" $tx.Lang ) }}</paper-button></a>
             {{end}}
           {{end}}
+        {{end}}
 
-          {{if .IsNode}}
-            {{ range $txLang := .Site.Languages }}
-              {{if ne $lang $txLang.Lang}}
-                <a href="/{{$txLang.Lang}}"><paper-button>{{ i18n ( printf "language_switcher_%s" $txLang.Lang ) }}</paper-button></a>
-              {{end}}
+        {{if .IsNode}}
+          {{ range $txLang := .Site.Languages }}
+            {{if ne $lang $txLang.Lang}}
+              <a href="/{{$txLang.Lang}}"><paper-button>{{ i18n ( printf "language_switcher_%s" $txLang.Lang ) }}</paper-button></a>
             {{end}}
           {{end}}
+        {{end}}
 
       </paper-toolbar></div>

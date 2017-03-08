@@ -1,5 +1,4 @@
 # Traffic unwrapped at the Ingress Controller level..
-tls off
 
 http://www.fde-mtl.ca, http://fde-mtl.org, http://www.fde-mtl.org {
     redir https://fde-mtl.ca{uri}

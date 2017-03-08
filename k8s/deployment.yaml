@@ -16,7 +16,7 @@ spec:
         image: 772853327345.dkr.ecr.us-east-1.amazonaws.com/abourget/fde-mtl:latest
         imagePullPolicy: Always
         ports:
-        - containerPort: 8080
+        - containerPort: 80
           name: fde-mtl
           protocol: TCP
       restartPolicy: Always
