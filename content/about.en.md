@@ -13,11 +13,13 @@ Family, Development and Education (FDE) is a non-profit  affiliated to
 [International Federation for Family Development](http://iffd.org), a NGO that
 is in [General Consultative Status](https://en.wikipedia.org/wiki/Consultative_status#General) with the [United Nations](http://www.un.org).
 
-FDE provides and dispenses courses to couples to help better their family life.
-For more than four decades, tends of thousands of married couples around the
+_FDE_ offers the _Family Enrichment_ courses from IFFD, that help couples
+improve their parental skills, and better their family life.
+
+For more than four decades, tens of thousands of married couples around the
 world benefited from these courses.
 
-FDE Montreal is responsible for bringing those courses to the greater Montreal
+_FDE Montreal_ is responsible for bringing those courses to the greater Montreal
 area.
 
 <!--
