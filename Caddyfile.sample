@@ -1,6 +1,6 @@
 # Traffic unwrapped at the Ingress Controller level..
 
-http://www.fde-mtl.ca, http://fde-mtl.org, http://www.fde-mtl.org {
+http://www.fde-mtl.ca {
     redir https://fde-mtl.ca{uri}
 }
 
@@ -8,13 +8,13 @@ http://projetfamille.ca, http://www.projetfamille.ca {
     redir https://fde-mtl.ca
 }
 
-http://fde-mtl.ca {
+https://fde-mtl.ca {
     log fde-mtl.access.log
     errors fde-mtl.error.log
 
     root /app/fde-mtl/public
     git https://github.com/abourget/fde-mtl {
-        hook /trigger/a/freaking/rebuild Vioshu9eshnamoquin
+        hook /trigger/a/freaking/rebuild [INSERT_WEBHOOK_SECRET]
         path ../
         then hugo --destination=/app/public
     }

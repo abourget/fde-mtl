@@ -9,10 +9,12 @@ spec:
   tls:
   - secretName: tls-fde-mtl
     hosts:
+      - www.fde-mtl.ca
       - fde-mtl.ca
-      - projet-famille.ca
+      - www.projetfamille.ca
+      - projetfamille.ca
   rules:
-  - host: fde-mtl.ca
+  - host: www.fde-mtl.ca
     http:
       paths:
       - path: /
@@ -20,6 +22,20 @@ spec:
           serviceName: fde-mtl
           servicePort: 80
   - host: fde-mtl.ca
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: fde-mtl
+          servicePort: 80
+  - host: www.projetfamille.ca
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: fde-mtl
+          servicePort: 80
+  - host: projetfamille.ca
     http:
       paths:
       - path: /
