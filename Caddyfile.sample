@@ -8,7 +8,7 @@ http://projetfamille.ca, http://www.projetfamille.ca {
     redir https://fde-mtl.ca
 }
 
-https://fde-mtl.ca {
+http://fde-mtl.ca {
     log fde-mtl.access.log
     errors fde-mtl.error.log
 
