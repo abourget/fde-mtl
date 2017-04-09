@@ -12,7 +12,7 @@ http://fde-mtl.ca {
     log fde-mtl.access.log
     errors fde-mtl.error.log
 
-    root /app/fde-mtl/public
+    root /app/public
     git https://github.com/abourget/fde-mtl {
         hook /trigger/a/freaking/rebuild [INSERT_WEBHOOK_SECRET]
         path ../
