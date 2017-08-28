@@ -88,3 +88,5 @@
   translation: "S'inscrire"
 - id: course_offered_and_starts
   translation: "Ce cours est offert en %s et débute le"
+- id: payment_not_open
+  translation: "Les paiements ne sont pas encore ouverts"

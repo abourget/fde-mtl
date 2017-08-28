@@ -78,23 +78,29 @@
     <p>{{ i18n "deadline" }}: <strong>{{ .deadline }}</strong></p>
   {{ end }}
 
-  {{ if ne .paypal_item nil}}
   <p>
     {{ i18n "registration_instructions" }}
   </p>
 
-  <table>
-    <tr><td>1.</td><td>
-      <a href="{{ .registration_form }}" target="_blank"><paper-button raised>{{ i18n "register_now" }}</paper-button></a>
-    </td></tr><tr><td>2.</td><td>
+
+  <ol>
+  {{ if ne .registration_form nil}}
+    <li><a href="{{ .registration_form }}" target="_blank"><paper-button raised>{{ i18n "register_now" }}</paper-button></a></li>
+  {{ end }}
+
+  {{ if ne .paypal_item nil}}
+
+    <li>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
         <input name="hosted_button_id" type="hidden" value="{{ .paypal_item }}" /><br />
         <input alt="{{ i18n "pay_with_paypal" }}" name="submit" src="{{ i18n "pay_now" }}" type="image" /><br />
         <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
-    </td></tr>
-  </table>
-
+    </li>
+  {{ else }}
+    <li>{{ i18n "payment_not_open" }}</li>
   {{ end }}
+
+  </ol>
 
 {{ end }}
 

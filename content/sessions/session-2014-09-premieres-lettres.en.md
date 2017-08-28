@@ -5,6 +5,7 @@ session:
   start_date: "Vendredi le 26 septembre 2014 (in French)"
 title: "Premières lettres (French) - Longueuil"
 session_language: "fr"
+past: true
 
 ---
 

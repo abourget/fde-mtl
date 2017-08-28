@@ -5,7 +5,7 @@ session:
   start_date: "vendredi le 17 janvier 2017 (en anglais)"
 title: "Premiers pas (Anglais) - McGill"
 session_language: "en"
-
+past: true
 ---
 
 À compter du 17 janvier 2017, FDE Montréal offre le cours **Premiers pas** en

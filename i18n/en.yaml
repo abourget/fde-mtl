@@ -19,7 +19,7 @@
 - id: and
   translation: "and"
 - id: past
-  translation: past
+  translation: "past"
 
 # Navigation and home
 
@@ -86,3 +86,5 @@
   translation: "Register now"
 - id: course_offered_and_starts
   translation: "This course is offered in %s and starts"
+- id: payment_not_open
+  translation: "Payments not open yet"

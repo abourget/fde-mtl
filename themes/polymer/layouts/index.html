@@ -1,9 +1,6 @@
 {{ partial "header.html" . }}
 {{ $lang := .Site.Language.Lang }}
 
-{{ $nextSession := (index .Site.Sections.sessions 0).Page }}
-{{ $venueData := $nextSession.Params.venue }}
-
 <section style="background-color: #373b50; padding: 0;">
   <fde-hero class="container" lang="{{$lang}}">
     <p>{{ i18n "mission" }}</p>
@@ -15,15 +12,16 @@
 </section>
 
 <section>
+
   <div class="container">
     <a id="offered-courses"></a>
     <featured-courses title="{{ i18n "offered_courses" }}">
-    {{ range .Site.Sections.sessions }}
+    {{ range where .Site.Pages "Section" "sessions" }}
 
-      {{ $.Scratch.Set "p" .Page }}
-      {{ if ne .Page.Params.session_language nil }}
-        {{ $untransPage := .Page }}
-        {{ range $tx := .Page.Translations }}{{ if eq $tx.Lang $untransPage.Params.session_language }}
+      {{ $.Scratch.Set "p" . }}
+      {{ if ne .Params.session_language nil }}
+        {{ $untransPage := . }}
+        {{ range $tx := .Translations }}{{ if eq $tx.Lang $untransPage.Params.session_language }}
           {{ $.Scratch.Set "p" $tx }}
         {{ end }}{{ end }}
       {{ end }}
@@ -45,17 +43,6 @@
     </featured-courses>
   </div>
 </section>
-
-<!-- section hero>
-  <div class="next-meetup layout horizontal">
-    <div class="align-right flex">
-      <span>{{ i18n "current_session" }}</span>
-    </div>
-    <div class="flex next-meetup-pair">
-      {{ $nextSession.Title }}
-    </div>
-  </div>
-</section-->
 
 <section hero>
   <fde-latest-news class="container">

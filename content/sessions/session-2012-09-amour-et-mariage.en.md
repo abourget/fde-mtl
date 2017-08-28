@@ -5,6 +5,7 @@ session:
   start_date: "Vendredi le 22 septembre 2012 (in French)"
 title: "Amour et mariage (French) - Longueuil"
 session_language: "fr"
+past: true
 ---
 
 FDE Montreal offers the **Amour et mariage** course in French, in the Old Longueuil..

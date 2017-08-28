@@ -5,6 +5,7 @@ session:
   start_date: "Friday, September 23rd 2016 (in French)"
 title: "First Decisions (French) - Longueuil"
 session_language: "fr"
+past: true
 
 ---
 

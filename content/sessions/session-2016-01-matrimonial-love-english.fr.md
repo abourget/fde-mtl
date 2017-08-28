@@ -5,6 +5,7 @@ session:
   start_date: "vendredi le 22 janvier 2016 (en anglais)"
 title: "Matrimonial Love (Anglais) - McGill"
 session_language: "en"
+past: true
 
 ---
 

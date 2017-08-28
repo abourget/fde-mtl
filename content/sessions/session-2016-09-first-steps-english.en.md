@@ -37,10 +37,7 @@ time:
 cost:
   amount: 150
   per_couple: true
-registration:
-  deadline: "January 10th 2017"
-  registration_form: "https://docs.google.com/forms/d/e/1FAIpQLSeHrDW4aQhrlcQeWpdujLFkxFy9KB_WXWLzpwYDDJKtwEqx7A/viewform"
-  paypal_item: "CYLGDWG43P5FJ"
+past: true
 ---
 
 Starting January 13th 2017, FDE Montreal offers the **First Steps** course in Montreal.

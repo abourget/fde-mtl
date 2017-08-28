@@ -7,10 +7,7 @@ RUN apk --no-cache add tini git openssh-client \
 RUN curl "https://caddyserver.com/download/build?os=linux&arch=amd64&features=git%2Cprometheus%2Crealip" \
     | tar --no-same-owner -C /usr/bin/ -xz caddy
 
-RUN curl -L "https://github.com/spf13/hugo/releases/download/v0.19/hugo_0.19_Linux-64bit.tar.gz" | tar -vxzf - -C /tmp/ && mv /tmp/hugo*/hugo* /usr/bin/hugo && rm -rf /tmp/hugo*
-
-# Remove build devs
-#RUN apk del devs
+RUN curl -L "https://github.com/gohugoio/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.tar.gz" | tar -vxzf - -C /tmp/ && mv /tmp/hugo*/hugo* /usr/bin/hugo && rm -rf /tmp/hugo*
 
 ADD ./config.yaml /app/config.yaml
 ADD ./archetypes /app/archetypes

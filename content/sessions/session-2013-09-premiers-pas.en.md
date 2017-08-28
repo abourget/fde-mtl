@@ -5,6 +5,7 @@ session:
   start_date: "Vendredi le 14 septembre 2013 (in French)"
 title: "Premier pas (French) - Longueuil"
 session_language: "fr"
+past: true
 
 ---
 
