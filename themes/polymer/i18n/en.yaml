@@ -7,9 +7,9 @@
 - id: "watch_video"
   translation: "Watch the video"
 - id: offered_courses
-  translation: "Offered courses"
+  translation: "Courses offered"
 - id: details
-  translation: Details
+  translation: "Details"
 - id: register
   translation: "Register"
 - id: pay_with_paypal
@@ -18,5 +18,3 @@
   translation: https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif
 - id: starts
   translation: "Starts"
-- id: offered_courses
-  translation: "Offered courses"
