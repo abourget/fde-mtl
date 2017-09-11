@@ -6,6 +6,7 @@ session:
   title: "First Steps"
   start_date: "Friday, January 13th 2017"
   course_image: "first-steps.jpg"
+session_language: "en"
 venue:
   name: "McGill University, MacDonald Engineering building, Room 267"
   address: "817	Sherbrooke St W, Montreal, H3A 0C3"

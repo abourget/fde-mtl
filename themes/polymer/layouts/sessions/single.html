@@ -2,29 +2,22 @@
 {{ $langPrefix := .Site.LanguagePrefix }}
 {{ $p := .Params }}
 
-{{ if ne $p.session_language nil }}
-  {{ range .Translations }}{{ if eq .Lang $p.session_language }}
-    <html><head><meta http-equiv="refresh" content="0;url={{ .Permalink }}" /></head></html>
-  {{ end }}{{ end }}
-{{ else }}
-
-
-
-  {{ partial "header.html" . }}
+{{ partial "header.html" . }}
 
 <section>
   <div class="container">
 
     <h1>{{ $p.session.title }}</h1>
 
-    <div style="float: right;">
+    <div style="float: right; margin: 0 0 25px 25px;">
             <fde-course image="{{ $p.session.course_image }}"
                         permalink="{{ .Permalink }}"
                         label="{{ .Title }}"
                         venue="{{ $p.venue.name }}"
+                        language="{{ i18n (printf "language_%s" $p.session_language) }}"
                         past="{{ if $p.past }}{{i18n "past"}}{{end}}"
                         mapslink="{{ $p.venue.map_link }}"
-                        startdate="{{ $p.session.start_date }}"></fde-course>
+                        startdate="{{ i18n "starts" }} {{ $p.session.start_date }}"></fde-course>
 
     </div>
 
@@ -107,6 +100,4 @@
   </div>
 </section>
 
-  {{ partial "footer.html" . }}
-
-{{ end }}
+{{ partial "footer.html" . }}

@@ -6,6 +6,7 @@ session:
   title: "Matrimonial Love"
   start_date: "Friday, January 22nd 2016"
   course_image: "marriedlove.jpg"
+session_language: "en"
 venue:
   name: "McGill University, MacDonald Engineering building"
   address: "Corner Milton & University, Montreal"

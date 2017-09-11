@@ -6,6 +6,7 @@ session:
   title: "Amour et mariage"
   start_date: "vendredi le 22 septembre 2012"
   course_image: "marriedlove.jpg"  # or marriage-ceremony.jpg
+session_language: "fr"
 venue:
   name: "Maison Gisèle Auprix-St-Germain, Salle Ste-Élizabeth"
   address: "150, rue Grant, Longueuil, J4H 3H6"

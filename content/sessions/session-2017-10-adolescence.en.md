@@ -1,11 +1,12 @@
 ---
 date: 2017-09-05T12:00:00-04:00
 
-title: "Adolescence"
+title: "Adolescence - Montreal"
 session:
   title: "Adolescence"
   start_date: "Saturday, October 28th 2017"
   course_image: "adolescence.jpg"
+session_language: "en"
 venue:
   name: "Loyola High School"
   address: "7272 W. Sherbrooke St, Montreal, H4B 1R2"
@@ -15,22 +16,22 @@ venue:
   zoom: 17
 schedule:
  - case: 1
-   date: "Saturday, 28 octobre 2017"
+   date: "Saturday, October 28th 2017"
  - case: 2
    groups: true
-   date: "Saturday, 25 novembre 2017"
+   date: "Saturday, November 25th 2017"
  - case: 3
    groups: true
-   date: "Saturday, 27 janvier 2018"
+   date: "Saturday, January 27th 2018"
  - case: 4
    groups: true
-   date: "Saturday, March 24th 2018"
+   date: "Saturday, February 24th 2018"
  - case: 5
    groups: true
-   date: "Saturday, 7 avril 2018"
+   date: "Saturday, March 24th 2018"
  - case: 6
    groups: true
-   date: "Saturday, 19 mai 2018"
+   date: "Saturday, April 28th 2018"
 time:
   from: "19 h 30"
   to: "21 h 30"

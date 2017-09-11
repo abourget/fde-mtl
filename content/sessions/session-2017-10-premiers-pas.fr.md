@@ -6,6 +6,7 @@ session:
   title: "Premiers pas"
   start_date: "samedi le 14 octobre 2017"
   course_image: "first-steps.jpg"
+session_language: "fr"
 venue:
   name: "Maison Gisèle Auprix-St-Germain, Salle Ste-Élizabeth"
   address: "150, rue Grant, Longueuil, J4H 3H6"

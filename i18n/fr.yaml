@@ -13,6 +13,8 @@
   translation: "français"
 - id: language_en
   translation: "anglais"
+- id: language_in
+  translation: "en"
 
 # General language bits
 

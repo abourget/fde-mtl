@@ -32,9 +32,10 @@
                   permalink="{{ $p.Permalink }}"
                   label="{{ $p.Title }}"
                   past="{{if $pp.past }}{{i18n "past"}}{{end}}"
+                  language="{{ i18n (printf "language_%s" $pp.session_language) }}"
                   venue="{{ $pp.venue.name }}"
                   mapslink="{{ $pp.venue.map_link }}"
-                  startdate="{{ $pp.session.start_date }}"
+                  startdate="{{ i18n "starts" }} {{ $pp.session.start_date }}"
                   details="{{ i18n "details" }}"
                   register="{{ if isset $pp "registration" }}{{ i18n "register_now" }}{{ end }}"
                   ></fde-course>

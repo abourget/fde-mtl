@@ -6,6 +6,7 @@ session:
   title: "Premières décisions"
   start_date: "vendredi le 28 octobre 2016"
   course_image: "first-decisions.jpg"
+session_language: "fr"
 venue:
   name: "Maison Gisèle Auprix-St-Germain, Salle Ste-Élizabeth"
   address: "150, rue Grant, Longueuil, J4H 3H6"

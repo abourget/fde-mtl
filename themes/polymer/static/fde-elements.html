@@ -34,7 +34,7 @@
   .card-actions {
     text-align: right;
   }
-  .session iron-image {
+  .header iron-image {
     height: 200px;
     width: 100%;
   }
@@ -44,6 +44,12 @@
   .register {
     font-weight: bold;
     color: #e25c5c;
+  }
+  iron-icon {
+    width: 56px;
+  }
+  paper-icon-item {
+    padding-left: 0;
   }
   </style>
 
@@ -58,15 +64,18 @@
 
         <paper-icon-item class="location">
           <iron-icon icon="communication:location-on" item-icon></iron-icon>
-          <paper-item-body>
-            <div class="venue"><a target="_blank" href="{{ mapslink }}">{{ venue }}</a></div>
-          </paper-item-body>
+          <a target="_blank" href="{{ mapslink }}">{{ venue }}</a>
         </paper-icon-item>
 
         <paper-icon-item class="start-date">
           <iron-icon icon="icons:event" item-icon></iron-icon>
+          {{ startdate }}
+        </paper-icon-item>
+
+        <paper-icon-item class="course-lang">
+          <iron-icon icon="icons:language" item-icon></iron-icon>
           <paper-item-body>
-            <div>{{ i18n "starts" }} {{ capitalizeFirst(startdate) }}</div>
+            <div>{{ capitalizeFirst(language) }}</div>
           </paper-item-body>
         </paper-icon-item>
       </div>
