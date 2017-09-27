@@ -57,13 +57,10 @@ adolescent's fragile personality.
 
 Topics:
 
-* Crisis and the challenges of adolescence
-* Discovering adolescent values
-* Sexual awakening: effervescence and self-control
-* Self-esteem and personal style
-* Value of the image of the body: anorexia and other trends
-* Authority. Models that go against the grain
-* Adolescent partying
-* Religion and the intimacy of the person
-* Leisure, free time and freedom
-* The family project
+* Crisis and Challenges of Adolescence
+* Celebrating Uniqueness
+* Teenagers and Responsibility
+* Educating for Love
+* Time to Flourish
+* Making Marriage Stronger
+* Knowing your Teenager
