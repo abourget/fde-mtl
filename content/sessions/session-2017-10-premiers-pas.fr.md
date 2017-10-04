@@ -4,7 +4,7 @@ date: 2017-08-15T12:00:00-04:00
 title: "Premiers pas (0-3 ans)"
 session:
   title: "Premiers pas"
-  start_date: "samedi le 14 octobre 2017"
+  start_date: "samedi le 25 novembre 2017"
   course_image: "first-steps.jpg"
 session_language: "fr"
 venue:
@@ -16,20 +16,17 @@ venue:
   zoom: 17
 schedule:
  - case: 1
-   date: "Samedi, 14 octobre 2017"
+   date: "Samedi, 25 novembre 2017"
  - case: 2
    groups: true
-   date: "Samedi, 25 novembre 2017"
+   date: "Samedi, 27 janvier 2018"
  - case: 3
    groups: true
-   date: "Samedi, 27 janvier 2018"
+   date: "Samedi, 24 février 2018"
  - case: 4
    groups: true
-   date: "Samedi, 24 février 2018"
- - case: 5
-   groups: true
    date: "Samedi, 7 avril 2018"
- - case: 6
+ - case: 5
    groups: true
    date: "Samedi, 19 mai 2018"
 time:
@@ -43,7 +40,7 @@ registration:
 past: false
 ---
 
-À compter du samedi 14 octobre 2017, FDE Montréal (précédemment _Projet
+À compter du samedi 25 novembre 2017, FDE Montréal (précédemment _Projet
 Famille_) offre le cours **Premiers pas** à Longueuil.
 
 Ce cours s'adresse aux parents d'enfants de 0 à 3 ans et aux couples qui
