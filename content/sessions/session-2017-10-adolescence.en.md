@@ -40,6 +40,7 @@ cost:
   per_couple: true
 registration:
   registration_form: "https://docs.google.com/forms/d/e/1FAIpQLSdZhD2aZesbUnmcd8Utp6X-1iKoV6GiCxJZvHz6kYlpFNEbOw/viewform?usp=sf_link"
+  paypal_item: DH6EK5U5WLQLY
 past: false
 ---
 
