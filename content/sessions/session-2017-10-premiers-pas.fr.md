@@ -35,10 +35,10 @@ time:
 cost:
   amount: 125
   per_couple: true
-registration:
+no_more_registration:
   registration_form: "https://docs.google.com/forms/d/e/1FAIpQLSebybtR0K4zdHTA4eI4NmfBmE5dJ5TzgE4FKA3D-WEQ6Q5vAg/viewform?usp=sf_link"
   paypal_item: R5SLQXCAGCERN
-past: false
+past: true
 ---
 
 À compter du samedi 25 novembre 2017, FDE Montréal (précédemment _Projet
