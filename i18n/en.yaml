@@ -63,7 +63,7 @@
 - id: schedule_small_group_meeting
   translation: "Small group meeting of Case {{ .num }}, prior to next plenary"
 - id: schedule_plenary_note
-  translation: "Small group meetings will take place in couples homes on mutually agreed dates. We suggest 1-2 weeks before the plenary sessions"
+  translation: "Small group meetings are self-organized, at a place and date convenient for the group's participants. We suggest 1-2 weeks before the plenary sessions"
 - id: course_schedule
   translation: "Course schedule"
 - id: hourly_time
