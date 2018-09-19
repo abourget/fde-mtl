@@ -18,7 +18,6 @@ schedule:
  - case: 0
    date: "Sunday, September 23th 2018"
  - case: 1
-   groups: true
    date: "Saturday, October 20th 2018"
  - case: 2
    groups: true
