@@ -4,12 +4,12 @@ date: 2018-09-11T12:00:00-04:00
 title: "Personal Project - Montreal"
 session:
   title: "Personal Project"
-  start_date: "Sunday, September 23rd 2018"
+  start_date: "Sunday, October 20th 2018"
   course_image: "young-professionals.jpg"
 session_language: "en"
 venue:
-  name: "Schulich School of Music - McGill University - Room A 832"
-  address: "555 Sherbrooke West, Montreal, Quebec, H3A 1E3"
+  name: "McGill University - Room A 832"
+  address: "Schulich School of Music - 555 Sherbrooke West, Montreal, Quebec, H3A 1E3"
   latitude: 45.5056771
   longitude: -73.5732711
   map_link: https://goo.gl/maps/RHEPz6Z4m1v
@@ -49,7 +49,7 @@ registration:
 past: false
 ---
 
-Starting September 23rd 2018, FDE Montreal offers the **Personal Project** course in Montreal.
+Starting October 20th 2018, FDE Montreal offers the **Personal Project** course in Montreal.
 
 This course is designed to help singles in their 20'sand early 30's plan and
 live rich, productive lives, whether it be in their career, their relationships
@@ -61,7 +61,7 @@ to approach your personal and professional lives.
 
 September 23rd is a zero session (open to all), and a demonstration of the methodology.
 
-Registration is required to participate in the session that runs from October
+Registration is required to participate in the course that runs from October
 2018 to April 2019.
 
 Topics:
