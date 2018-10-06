@@ -96,12 +96,12 @@
   {{ end }}
   {{ if ne .cheque nil }}
     <li>
-      {{ printf (i18n "pay_cheque") .cheque }}
+      {{ printf (i18n "pay_cheque") .cheque | safeHTML }}
     </li>
   {{ end }}
   {{ if ne .cash nil }}
     <li>
-      {{ printf (i18n "pay_cash") }}
+      {{ printf (i18n "pay_cash") | safeHTML }}
     </li>
   {{ end }}
   {{ if ne .payment_not_open nil }}
