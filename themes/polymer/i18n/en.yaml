@@ -12,9 +12,5 @@
   translation: "Details"
 - id: register
   translation: "Register"
-- id: pay_with_paypal
-  translation: "Pay with PayPal"
-- id: pay_now
-  translation: https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif
 - id: starts
   translation: "Starts"

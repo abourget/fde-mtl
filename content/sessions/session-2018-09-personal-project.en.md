@@ -9,7 +9,7 @@ session:
 session_language: "en"
 venue:
   name: "McGill University - Room A 832"
-  address: "Schulich School of Music - 555 Sherbrooke West, Montreal, Quebec, H3A 1E3"
+  address: "Schulich School of Music - 527 Sherbrooke West, Montreal, Quebec, H3A 1E3"
   latitude: 45.5056771
   longitude: -73.5732711
   map_link: https://goo.gl/maps/RHEPz6Z4m1v
@@ -45,7 +45,10 @@ cost:
   per_couple: false
 registration:
   registration_form: "https://goo.gl/forms/ih3puJpwXN494Cix1"
-  paypal_item_not_yet: DH6EK5U5WLQLY
+  paypal_item: H3B4PNET5P5KU
+  interac: info@fde-mtl.ca
+  cash: true
+  cheque: "Famille, Développement et Éducation Montréal"
 past: false
 ---
 
@@ -73,10 +76,3 @@ Topics:
 * Married Love
 * Marital Communication
 * The transcendent dimension of the human being
-
----
-
-For payment, please initiate an Interac Transfer to <a
-href="mailto:info@fde-mtl.ca">info@fde-mtl.ca</a>. We also accept cheques,
-labeled to "Famille, Développement et Éducation Montréal", or cash to one of the
-course organizers at one of the sessions.

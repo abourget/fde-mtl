@@ -92,3 +92,13 @@
   translation: "Ce cours est offert en %s et débute le"
 - id: payment_not_open
   translation: "Les paiements ne sont pas encore ouverts"
+- id: pay_with_paypal
+  translation: "Payer avec PayPal"
+- id: pay_now
+  translation: "/images/payer_avec_paypal.gif"
+- id: initiate_interac
+  translation: "Initiez un transfer Interac à l'adresse suivante: <a href='mailto:%[0]s'>%[0]s</a>"
+- id: pay_cheque
+  translation: Préparez un chèque à l\'ordre de "%s" et apportez-le au organisateurs du cours
+- id: pay_cash
+  translation: Les paiements en espèce en main propre aux organisateurs est aussi possible.
