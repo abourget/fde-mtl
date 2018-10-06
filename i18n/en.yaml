@@ -95,6 +95,6 @@
 - id: initiate_interac
   translation: 'Initiate an <strong>Interac Transfer</strong> to this address: <a href="mailto:%[1]s">%[1]s</a>'
 - id: pay_cheque
-  translation: 'Prepare a <strong>cheque</strong> labeled to "%s" and bring it to the course organizers'
+  translation: 'Prepare a <strong>cheque</strong> labeled to <em>"%s"</em> and bring it to the course organizers'
 - id: pay_cash
   translation: <strong>Cash payment</strong> to course organizers is possible.
