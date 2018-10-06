@@ -73,3 +73,10 @@ Topics:
 * Married Love
 * Marital Communication
 * The transcendent dimension of the human being
+
+---
+
+For payment, please initiate an Interac Transfer to <a
+href="mailto:info@fde-mtl.ca">info@fde-mtl.ca</a>. We also accept cheques,
+labeled to "Famille, Développement et Éducation Montréal", or cash to one of the
+course organizers at one of the sessions.
