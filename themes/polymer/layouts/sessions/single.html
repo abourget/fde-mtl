@@ -91,7 +91,7 @@
   {{ end }}
   {{ if ne .interac nil }}
     <li>
-      {{ printf (i18n "initiate_interac") .interac }}
+      {{ safeHTM (printf (i18n "initiate_interac") .interac) }}
     </li>
   {{ end }}
   {{ if ne .cheque nil }}
