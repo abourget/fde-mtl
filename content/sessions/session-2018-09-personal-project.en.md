@@ -4,7 +4,7 @@ date: 2018-09-11T12:00:00-04:00
 title: "Personal Project - Montreal"
 session:
   title: "Personal Project"
-  start_date: "Sunday, October 20th 2018"
+  start_date: "Saturday, October 20th 2018"
   course_image: "young-professionals.jpg"
 session_language: "en"
 venue:
