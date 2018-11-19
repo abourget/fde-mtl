@@ -42,6 +42,8 @@ time:
 cost:
   amount: 200
   per_couple: true
+registration:
+  enabled: true
 ---
 
 À compter du samedi 12 janvier 2019, IFFD Canada offre le cours **Grandir en
