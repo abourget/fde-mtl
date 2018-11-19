@@ -50,6 +50,9 @@ couple** dans la **région de Québec**.
 Le cours s'adresse aux couples récemment mariés ou ensemble depuis plusieurs
 années.
 
-![Publicité Québec 2019, page 1](/images/posts/pub-quebec-2019-p1.png)
+![Publicité Québec 2019, page 1](/images/posts/pub-quebec-2019-p1.jpg)
 
-![Publicité Québec 2019, page 1](/images/posts/pub-quebec-2019-p2.png)
+![Publicité Québec 2019, page 1](/images/posts/pub-quebec-2019-p2.jpg)
+
+Pour plus d'informations, contacter Yolaine Gravel au 418-956-5128 ou <a
+href="mailto:yolainegravel@hotmail.com">yolainegravel@hotmail.com</a>
