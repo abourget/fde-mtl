@@ -12,8 +12,8 @@ resources:
 - name: pub
   src: images/pub.jpg
 venue:
-  name: "À venir"
-  address: "À venir"
+  name: "Région de Québec - Lieu à déterminer"
+  address: "Région de Québec - À déterminer"
   latitude: 46.8107426
   longitude: -71.2099797
   map_link: https://www.google.com/maps/place/Quebec+City,+QC
