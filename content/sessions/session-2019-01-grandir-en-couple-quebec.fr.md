@@ -12,12 +12,12 @@ resources:
 - name: pub
   src: images/pub.jpg
 venue:
-  name: "Région de Québec - Lieu à déterminer"
-  address: "Région de Québec - À déterminer"
-  latitude: 46.8107426
-  longitude: -71.2099797
-  map_link: https://www.google.com/maps/place/Quebec+City,+QC
-  zoom: 13.69
+  name: "Centre de Formation Eastern Québec"
+  address: "3005 Rue William-Stuart, Québec, QC, G1W 1V4"
+  latitude: 46.7585753
+  longitude: -71.2866829
+  map_link: https://goo.gl/maps/NHZUmzFKKjT2
+  zoom: 16
 schedule:
  - case: 1
    date: "Samedi, 12 janvier 2019"
