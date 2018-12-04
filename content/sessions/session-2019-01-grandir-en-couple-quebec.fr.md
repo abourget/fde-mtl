@@ -1,10 +1,10 @@
 ---
 date: 2018-10-18T12:00:00-04:00
-title: "Grandir en couple"
+title: "Grandir en couple - Québec"
 aliases:
 - /grandirencouplequebec/
 session:
-  title: "Grandir en couple"
+  title: "Grandir en couple - Québec"
   start_date: "samedi le 12 janvier 2019"
   course_image: "marriedlove.jpg"
 session_language: "fr"
@@ -28,7 +28,6 @@ schedule:
    groups: true
    date: "Samedi, 23 février 2019"
  - case: 4
-   groups: true
    date: "Samedi, 23 mars 2019"
  - case: 5
    groups: true
@@ -43,7 +42,10 @@ cost:
   amount: 200
   per_couple: true
 registration:
-  enabled: true
+  registration_form: https://docs.google.com/forms/d/e/1FAIpQLSciTggcZCikV58zIWa8Up7lqXKFW-uVKyNIdQVL8EQu25_x0g/viewform
+  paypal_item: C7L4KV826ZYJE
+  interac: info@fde-mtl.ca
+  cash: true
 ---
 
 À compter du samedi 12 janvier 2019, IFFD Canada offre le cours **Grandir en
