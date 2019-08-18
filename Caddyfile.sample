@@ -1,5 +1,10 @@
 # Traffic unwrapped at the Ingress Controller level..
 
+:80 {
+    # for health checking
+    status 200 /
+}
+
 http://www.fde-mtl.ca {
     redir https://fde-mtl.ca{uri}
 }
