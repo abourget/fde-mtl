@@ -40,16 +40,18 @@ schedule:
 time:
   from: "3pm"
   to: "5pm"
-cost:
+cost_disabled:
   amount: 250
   per_couple: false
-registration:
+registration_disabled:
   registration_form: "https://goo.gl/forms/ih3puJpwXN494Cix1"
   paypal_item: H3B4PNET5P5KU
   interac: info@fde-mtl.ca
   cash: true
   cheque: "Famille, Développement et Éducation Montréal"
-past: false
+past: true
+aliases:
+- /en/sessions/session-2018-09-personal-project
 ---
 
 Starting October 20th 2018, FDE Montreal offers the **Personal Project** course in Montreal.

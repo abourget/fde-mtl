@@ -33,6 +33,8 @@ time:
   from: "19 h"
   to: "21 h 30"
 past: true
+aliases:
+- /fr/sessions/session-2013-09-premiers-pas/
 ---
 
 FDE Montréal (anciennement Projet Famille) a offert le cours **Premier pas** à

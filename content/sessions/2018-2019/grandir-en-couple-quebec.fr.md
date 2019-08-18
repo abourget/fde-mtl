@@ -38,14 +38,18 @@ schedule:
 time:
   from: "19 h 30"
   to: "21 h 30"
-cost:
+cost_disabled:
   amount: 200
   per_couple: true
-registration:
+registration_disabled:
   registration_form: https://docs.google.com/forms/d/e/1FAIpQLSciTggcZCikV58zIWa8Up7lqXKFW-uVKyNIdQVL8EQu25_x0g/viewform
   paypal_item: C7L4KV826ZYJE
   interac: info@fde-mtl.ca
   cash: true
+past: true
+aliases:
+- /fr/sessions/session-2019-01-grandir-en-couple-quebec
+
 ---
 
 À compter du samedi 12 janvier 2019, IFFD Canada offre le cours **Grandir en

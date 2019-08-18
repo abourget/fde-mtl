@@ -6,8 +6,10 @@ session:
 title: "Adolescence (English) - Montreal"
 session_language: "en"
 past: true
+aliases:
+- /fr/sessions/session-2017-10-adolescence/
 ---
 
 À compter du 28 octobre 2017, FDE Montréal offre le cours **Adolescence** en anglais, à l'école secondaire Loyola.
 
-Voir [l'article détaillé sur le cours]({{< ref "session-2017-10-adolescence.en.md" >}}).
+Voir [l'article détaillé sur le cours]({{< ref ref="session-2017-10-adolescence" lang="en" >}}).

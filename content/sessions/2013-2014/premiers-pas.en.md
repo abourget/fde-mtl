@@ -6,9 +6,10 @@ session:
 title: "Premier pas (French) - Longueuil"
 session_language: "fr"
 past: true
-
+aliases:
+- /en/sessions/session-2013-09-premiers-pas/
 ---
 
 Starting 14 september 2013, FDE Montreal offered the **Premier pas** course in French, in the Old Longueuil.
 
-See [detailed article in French]({{< ref "session-2013-09-premiers-pas.fr.md" >}}).
+See [detailed article in French]({{< ref ref="session-2013-09-premiers-pas.md" lang="fr" >}}).

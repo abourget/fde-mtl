@@ -35,10 +35,12 @@ schedule:
 time:
   from: "19 h 30"
   to: "21 h 30"
-cost:
+cost_disabled:
   amount: 125
   per_couple: true
 past: true
+aliases:
+- /fr/sessions/session-2016-09-premieres-decisions/
 ---
 
 À compter du vendredi 23 septembre 2016, FDE Montréal (anciennement Projet

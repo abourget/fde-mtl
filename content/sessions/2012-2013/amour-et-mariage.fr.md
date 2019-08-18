@@ -32,10 +32,12 @@ schedule:
 time:
   from: "19 h"
   to: "21 h 30"
-registration:
+registration_disabled:
   registration_form:
   deadline: "8 septembre 2012"
 past: true
+aliases:
+- /fr/sessions/session-2012-09-amour-et-mariage/
 ---
 
 FDE Montréal (anciennement Projet Famille) a offert le cours **Amour et

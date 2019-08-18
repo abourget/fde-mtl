@@ -35,10 +35,13 @@ schedule:
 time:
   from: "7:30pm"
   to: "9:30pm"
-cost:
+cost_disabled:
   amount: 150
   per_couple: true
 past: true
+aliases:
+- /en/sessions/session-2016-09-first-steps-english/
+
 ---
 
 Starting January 13th 2017, FDE Montreal offers the **First Steps** course in Montreal.

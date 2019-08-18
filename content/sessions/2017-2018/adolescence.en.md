@@ -35,13 +35,15 @@ schedule:
 time:
   from: "19 h 30"
   to: "21 h 30"
-cost:
+cost_disabled:
   amount: 150
   per_couple: true
 no_more_registration:
   registration_form: "https://docs.google.com/forms/d/e/1FAIpQLSdZhD2aZesbUnmcd8Utp6X-1iKoV6GiCxJZvHz6kYlpFNEbOw/viewform?usp=sf_link"
   paypal_item: DH6EK5U5WLQLY
 past: true
+aliases:
+- /en/sessions/session-2017-10-adolescence/
 ---
 
 Starting October 28th 2017, FDE Montreal offers the **Adolescence** course in Montreal.

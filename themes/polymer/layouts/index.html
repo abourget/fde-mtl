@@ -16,8 +16,7 @@
   <div class="container">
     <a id="offered-courses"></a>
     <featured-courses title="{{ i18n "offered_courses" }}">
-    {{ range where .Site.Pages "Section" "sessions" }}
-
+    {{ range where .Site.RegularPages "Section" "sessions" }}
       {{ $.Scratch.Set "p" . }}
       {{ if ne .Params.session_language nil }}
         {{ $untransPage := . }}

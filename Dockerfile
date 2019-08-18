@@ -4,10 +4,10 @@ RUN apk --no-cache add tini git openssh-client \
     && apk --no-cache add --virtual devs tar curl
 
 # Install Caddy Server and some middleware
-RUN curl "https://caddyserver.com/download/build?os=linux&arch=amd64&features=git%2Cprometheus%2Crealip" \
+RUN curl "https://caddyserver.com/download/linux/amd64?plugins=http.git,http.prometheus,http.realip&license=personal&telemetry=on" \
     | tar --no-same-owner -C /usr/bin/ -xz caddy
 
-RUN mkdir /tmp/hugopkg; curl -L "https://github.com/gohugoio/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.tar.gz" | tar -vxzf - -C /tmp/hugopkg && mv /tmp/hugopkg/hugo /usr/bin/hugo && rm -rf /tmp/hugopkg
+RUN mkdir /tmp/hugopkg; curl -L "https://github.com/gohugoio/hugo/releases/download/v0.57.2/hugo_0.57.2_Linux-64bit.tar.gz" | tar -vxzf - -C /tmp/hugopkg && mv /tmp/hugopkg/hugo /usr/bin/hugo && rm -rf /tmp/hugopkg
 
 ADD ./config.yaml /app/config.yaml
 ADD ./archetypes /app/archetypes

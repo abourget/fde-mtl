@@ -32,10 +32,12 @@ schedule:
 time:
   from: "7:30pm"
   to: "9:30pm"
-cost:
+cost_disabled:
   amount: 125
   per_couple: true
 past: true
+aliases:
+- /en/sessions/session-2016-01-matrimonial-love-english/
 ---
 
 Matrimonial Love is a course developed by professionals at IFFD (International

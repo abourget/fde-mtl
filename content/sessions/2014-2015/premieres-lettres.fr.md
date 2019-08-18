@@ -21,6 +21,8 @@ time:
   from: "19 h 30"
   to: "22 h 00"
 past: true
+aliases:
+- /fr/sessions/session-2014-09-premieres-lettres/
 ---
 
 FDE Montréal (anciennement Projet Famille) a offert le cours **Premières lettres** à

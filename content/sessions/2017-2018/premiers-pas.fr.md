@@ -32,13 +32,15 @@ schedule:
 time:
   from: "19 h 30"
   to: "21 h 30"
-cost:
+cost_disabled:
   amount: 125
   per_couple: true
 no_more_registration:
   registration_form: "https://docs.google.com/forms/d/e/1FAIpQLSebybtR0K4zdHTA4eI4NmfBmE5dJ5TzgE4FKA3D-WEQ6Q5vAg/viewform?usp=sf_link"
   paypal_item: R5SLQXCAGCERN
 past: true
+aliases:
+- /fr/sessions/session-2017-10-premiers-pas
 ---
 
 À compter du samedi 25 novembre 2017, FDE Montréal (précédemment _Projet
