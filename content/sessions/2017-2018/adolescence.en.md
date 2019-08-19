@@ -3,7 +3,6 @@ date: 2017-09-05T12:00:00-04:00
 
 title: "Adolescence - Montreal"
 session:
-  title: "Adolescence"
   start_date: "Saturday, October 28th 2017"
   course_image: "adolescence.jpg"
 session_language: "en"

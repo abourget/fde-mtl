@@ -1,7 +1,6 @@
 ---
 date: 2014-08-01T12:14:00-04:00
 session:
-  title: "Premières lettres, in French"
   start_date: "Vendredi le 26 septembre 2014 (in French)"
 title: "Premières lettres (French) - Longueuil"
 session_language: "fr"

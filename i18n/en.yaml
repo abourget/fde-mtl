@@ -61,7 +61,7 @@
 - id: schedule_plenary
   translation: "Case {{ .num }} plenary"
 - id: schedule_small_group_meeting
-  translation: "Small group meeting of Case {{ .num }}, prior to next plenary"
+  translation: "Small group meeting for Case {{ .num }}, prior to next plenary"
 - id: schedule_plenary_note
   translation: "Small group meetings are self-organized, at a place and date convenient for the group's participants. We suggest 1-2 weeks before the plenary sessions"
 - id: course_schedule

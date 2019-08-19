@@ -1,7 +1,6 @@
 ---
 date: 2017-08-15T12:14:00-04:00
 session:
-  title: "First Steps, in French"
   start_date: "Saturday, November 25th 2017 (in French)"
 title: "First Steps (French) - Longueuil"
 session_language: "fr"

@@ -3,7 +3,6 @@ date: 2012-08-01T12:14:00-04:00
 
 title: "Amour et mariage - Longueuil"
 session:
-  title: "Amour et mariage"
   start_date: "vendredi le 22 septembre 2012"
   course_image: "marriedlove.jpg"  # or marriage-ceremony.jpg
 session_language: "fr"

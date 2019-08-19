@@ -3,7 +3,6 @@ date: 2013-08-01T12:14:00-04:00
 
 title: "Premiers pas - Longueuil"
 session:
-  title: "Premiers pas"
   start_date: "vendredi le 14 septembre 2013"
   course_image: "first-steps.jpg"
 session_language: "fr"

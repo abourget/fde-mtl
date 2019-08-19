@@ -3,7 +3,6 @@ date: 2015-12-04T12:14:00-04:00
 
 title: "Matrimonial Love - McGill"
 session:
-  title: "Matrimonial Love"
   start_date: "Friday, January 22nd 2016"
   course_image: "marriedlove.jpg"
 session_language: "en"

@@ -3,7 +3,6 @@ date: 2014-08-01T12:14:00-04:00
 
 title: "Premières lettres - Longueuil"
 session:
-  title: "Premières lettres"
   start_date: "vendredi le 26 septembre 2014"
   course_image: "first-letters.jpg"
 session_language: "fr"

@@ -7,31 +7,49 @@
 <section>
   <div class="container">
 
-    <h1>{{ $p.session.title }}</h1>
+  <h1>{{ $p.Title }}</h1>
+
+  {{ if ne .Params.venue nil }}
 
     <div style="float: right; margin: 0 0 25px 25px;">
             <fde-course image="{{ $p.session.course_image }}"
                         permalink="{{ .Permalink }}"
                         label="{{ .Title }}"
                         venue="{{ $p.venue.name }}"
-                        language="{{ i18n (printf "language_%s" $p.session_language) }}"
+                        language="{{ i18n (printf "language_%s" .Lang) }}"
                         past="{{ if $p.past }}{{i18n "past"}}{{end}}"
                         mapslink="{{ $p.venue.map_link }}"
                         startdate="{{ i18n "starts" }} {{ $p.session.start_date }}"></fde-course>
 
     </div>
 
+  {{ end }}
+
   {{ .Content }}
 
-  {{ printf (i18n "course_offered_and_starts") (i18n (printf "language_%s" $.Site.Language.Lang)) }} <strong>{{ $p.session.start_date }}</strong>.
+  {{ if .Params.venue }}
 
-  <h3>{{ i18n "course_schedule" }}</h3>
+    {{ printf (i18n "course_offered_and_starts") (i18n (printf "language_%s" $.Site.Language.Lang)) }} <strong>{{ $p.session.start_date }}</strong>.
 
-  {{ partial "schedule.html" . }}
+  {{ end }}
+
+  {{ if .Params.schedule }}
+
+    <h3>{{ i18n "course_schedule" }}</h3>
+
+    {{ partial "schedule.html" . }}
+
+  {{ end }}
+
+  {{ if $p.time.from }}
 
   <h3>{{ i18n "hourly_time" }}</h3>
 
   <p>{{ $p.time.from }} &mdash; {{ $p.time.to }}</p>
+
+  {{ end }}
+
+  {{ if ne .Params.venue nil }}
 
   <h3>{{ i18n "venue" }}</h3>
 
@@ -56,7 +74,7 @@
 </google-map>
 
 
-
+  {{ end }}
 
   <!-- Insert Google Maps map -->
 {{ with $p.cost }}

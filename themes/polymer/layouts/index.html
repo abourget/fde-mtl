@@ -17,26 +17,28 @@
     <a id="offered-courses"></a>
     <featured-courses title="{{ i18n "offered_courses" }}">
     {{ range where .Site.RegularPages "Section" "sessions" }}
-      {{ $.Scratch.Set "p" . }}
-      {{ if ne .Params.session_language nil }}
-        {{ $untransPage := . }}
-        {{ range $tx := .Translations }}{{ if eq $tx.Lang $untransPage.Params.session_language }}
-          {{ $.Scratch.Set "p" $tx }}
+      {{ $s := newScratch }}
+      {{ $s.Set "venue" . }}
+      {{ $s.Set "original" . }}
+      {{ if eq .Params.venue nil }}
+        {{ range $tx := .Translations }}{{ if ne $tx.Params.venue nil }}
+          {{ $s.Set "venue" $tx }}
         {{ end }}{{ end }}
       {{ end }}
-      {{ $pp := ($.Scratch.Get "p").Params }}
-      {{ $p := $.Scratch.Get "p" }}
+      {{ $vp := ($s.Get "venue").Params }}
+      {{ $v := $s.Get "venue" }}
+      {{ $o := $s.Get "original" }}
 
-      <fde-course image="{{ $pp.session.course_image }}"
-                  permalink="{{ $p.Permalink }}"
-                  label="{{ $p.Title }}"
-                  past="{{if $pp.past }}{{i18n "past"}}{{end}}"
-                  language="{{ i18n (printf "language_%s" $pp.session_language) }}"
-                  venue="{{ $pp.venue.name }}"
-                  mapslink="{{ $pp.venue.map_link }}"
-                  startdate="{{ i18n "starts" }} {{ $pp.session.start_date }}"
+      <fde-course image="{{ $vp.session.course_image }}"
+                  permalink="{{ $v.Permalink }}"
+                  label="{{ $o.Title }}"
+                  past="{{if $vp.past }}{{i18n "past"}}{{end}}"
+                  language="{{ i18n (printf "language_%s" $v.Lang) }}"
+                  venue="{{ $vp.venue.name }}"
+                  mapslink="{{ $vp.venue.map_link }}"
+                  startdate="{{ i18n "starts" }} {{ $vp.session.start_date }}"
                   details="{{ i18n "details" }}"
-                  register="{{ if isset $pp "registration" }}{{ i18n "register_now" }}{{ end }}"
+                  register="{{ if isset $vp "registration" }}{{ i18n "register_now" }}{{ end }}"
                   ></fde-course>
 
     {{ end }}

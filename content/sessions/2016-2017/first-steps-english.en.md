@@ -3,7 +3,6 @@ date: 2016-11-11T12:00:00-04:00
 
 title: "First Steps - McGill"
 session:
-  title: "First Steps"
   start_date: "Friday, January 13th 2017"
   course_image: "first-steps.jpg"
 session_language: "en"

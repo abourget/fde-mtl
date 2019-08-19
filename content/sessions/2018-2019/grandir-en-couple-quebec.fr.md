@@ -4,7 +4,6 @@ title: "Grandir en couple - Québec"
 aliases:
 - /grandirencouplequebec/
 session:
-  title: "Grandir en couple - Québec"
   start_date: "samedi le 12 janvier 2019"
   course_image: "marriedlove.jpg"
 session_language: "fr"
