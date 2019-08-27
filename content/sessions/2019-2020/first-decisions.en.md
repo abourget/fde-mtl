@@ -60,6 +60,7 @@ In this age range, children feel comfortable in their environment. They thus fin
 In this course, parents analyze the importance of living according to a scale of values and also learn how to transmit these same values to their children.
 
 Topics include:
+
 * Character
 * Family Life
 * Strengthening the Will

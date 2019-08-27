@@ -66,6 +66,7 @@ dans la vie des jeunes qui s'approchent de la vie adulte demeure un moyen effica
 rassurant de réussir dans le rôle d'éducateurs que sont les parents.
 
 Thèmes abordés:
+
 * Les caractéristiques de l'adolescence
 * L'importance du corps
 * La motivation
