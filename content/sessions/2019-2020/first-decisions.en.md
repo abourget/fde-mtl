@@ -1,17 +1,17 @@
 ---
 date: 2019-08-01T12:01:00-04:00
-draft: true
+draft: false
 title: "First Decisions - Dorval"
 session:
   start_date: "Saturday, October 5th, 2019"
   course_image: "first-decisions.jpg"
 venue:
-  name: "Sarto-Desnoyers Community Center"
-  address: "1335 Lakeshore Drive, Dorval, Quebec, H9S 2E5"
-  latitude: 45.4398296
-  longitude: -73.7543477
-  map_link: https://goo.gl/maps/QyL6zTHbUqUTfH866
-  zoom: 17
+  name: "West Island"
+  address: "Near Dorval, Lachine, Pointe-Claire"
+  latitude: 45.4469015
+  longitude: -73.7418256
+  map_link: https://goo.gl/maps/TDY2SyanuC6EhAWH7
+  zoom: 13
 schedule:
  - case: 1
    date: Saturday, October 5th, 2019
@@ -39,7 +39,6 @@ cost:
 registration:
   registration_form: "https://forms.gle/LEtGGTDrPk3CbzZu6"
   interac: info@fde-mtl.ca
-  _paypal_item: H3B4PNET5P5KU
   _cash: true
   _cheque: "Famille, Développement et Éducation Montréal"
 
@@ -54,24 +53,18 @@ confirmed. There is also a maximum of 30 couples for this session.
 
 This course is for parents with children from 8 to 11 years old.
 
-In this age range, children feel comfortable in the environment in which they find themselves. As a consequence they find themselves making a wide range of personal decisions in many daily situations. To assist them in making good choices, children need to have a scale of values to use as a reference.
+In this age range, children feel comfortable in their environment. They thus find themselves making a wide range of personal decisions in many daily situations. To assist them in making good choices, it helps to provide them with a scale of values, a reference.
 
 In this course, parents analyze the importance of living according to a scale of values and also learn how to transmit these same values to their children.
 
-
-<!--
-TODO: SELECT TOPICS
-
-Topics:
-* Introduction. First decisions, a step forward
-* Characters
+Topics include:
+* Character
 * Family Life
 * Strengthening the Will
-* The use of leisure time. Reading, sports and the media
+* The use of leisure time; reading, sports and the media
 * Mutual Understanding in Marriage
 * Educating for Love
-* Religious Education
 * Family and School
 * Authority and Responsibility
--->
+
 <!--more-->

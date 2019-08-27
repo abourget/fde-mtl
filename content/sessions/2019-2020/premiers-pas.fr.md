@@ -1,6 +1,6 @@
 ---
 date: 2019-08-01T12:00:00-04:00
-draft: true
+draft: false
 title: "Premiers pas 2019 - McGill"
 session:
   start_date: "Vendredi, 4 octobre 2019"
@@ -75,3 +75,5 @@ Thèmes abordés :
 * Garderie et préscolaire
 * La volonté et la discipline
 * L'éducation à la sensibilité et à la vertue
+
+<!--more-->

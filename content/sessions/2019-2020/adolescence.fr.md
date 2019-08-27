@@ -39,7 +39,7 @@ registration:
   registration_form: https://forms.gle/cqwT1DJHndfHcLTGA
   interac: info@fde-mtl.ca
   cash: true
-draft: true
+draft: false
 
 ---
 
@@ -77,3 +77,5 @@ Thèmes abordés:
 ---
 
 Le prix inclus le matériel de cours et les rafraîchissements. Le stationnement est gratuit.
+
+<!--more-->

@@ -1,6 +1,6 @@
 ---
 date: 2019-08-01T12:00:00-04:00
-draft: true
+draft: false
 title: "Premiers pas (Français) - McGill"
 session:
   start_date: "Friday, October 4th 2019"

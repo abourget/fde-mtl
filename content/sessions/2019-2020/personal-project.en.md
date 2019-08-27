@@ -1,6 +1,6 @@
 ---
 date: 2019-08-01T12:14:00-04:00
-draft: true
+draft: false
 title: "Personal Project 2019 - Montreal"
 session:
   start_date: "Saturday, October 5th, 2019"
@@ -75,3 +75,5 @@ Topics:
 * Married Love
 * Marital Communication
 * The transcendent dimension of the human being
+
+<!--more-->
