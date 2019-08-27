@@ -22,23 +22,6 @@ world benefited from these courses.
 _FDE Montreal_ is responsible for bringing those courses to the greater Montreal
 area.
 
-<!--
-
-References:
-http://www.fe-ny.org/Family_Enrichment_NY/About_us.html
-http://www.familydevelopment.ca/mission/
-
--->
-
-### Board
-
-The current board members are:
-
-* Bridget Bagshaw & Karl Santaguida
-* Marie-Pierre Gagné & Philippe Charron
-* Mélina Daher & Elie Bou-Assi
-* Michelle Chartrand & Alexandre Bourget
-* Sara de la Cerda & Jose Coronado
-* Valérie Blouin & Frédérick Gaudreau
+---
 
 For any information, reach us at <a href="mailto:info@fde-mtl.ca">info@fde-mtl.ca</a>.

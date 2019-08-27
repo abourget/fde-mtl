@@ -19,24 +19,7 @@ Depuis plus de quatre décennies maintenant, des dizaines de milliers de couples
 
 _FDE Montréal_ organise ces cours dans la grande région de Montréal.
 
-<!--
-
-References:
-http://www.fe-ny.org/Family_Enrichment_NY/About_us.html
-http://www.familydevelopment.ca/mission/
-
--->
-
-### Conseil d'administration
-
-Le conseil d'administration est composé de:
-
-* Bridget Bagshaw & Karl Santaguida
-* Marie-Pierre Gagné & Philippe Charron
-* Mélina Daher & Elie Bou-Assi
-* Michelle Chartrand & Alexandre Bourget
-* Sara de la Cerda & Jose Coronado
-* Valérie Blouin & Frédérick Gaudreau
+---
 
 Vous pouvez nous joindre à l'adresse <a
 href="mailto:info@fde-mtl.org">info@fde-mtl.ca</a>.

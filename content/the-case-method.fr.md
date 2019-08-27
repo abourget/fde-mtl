@@ -4,7 +4,7 @@ title: La méthode des cas
 slug: la-methode-des-cas
 menu:
   main:
-    post: Méthode des cas
+    post: La méthode des cas
     weight: 30
 
 ---
@@ -50,4 +50,4 @@ Dans le contexte des cours de l'IFFD, la méthode s'applique comme suit:
 4. Tous les participants se réunissent en session générale, modérées par des experts, pour approfondir le cas une dernière fois et échanger avec les autres participants des différents points de vue et solutions.
 
 Le travail systématique, l'application de cette méthode dans la vie courante a
-transformé à ce jour la vie de plus de 25 000 couples à travers le monde.
+transformé à ce jour la vie de plus de 25,000 couples à travers le monde.

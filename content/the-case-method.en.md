@@ -45,4 +45,4 @@ In the context of IFFD courses, the method is applied as follows:
 3. Each small group (4 to 5 couples) meets (at some participant's home if possible) to discuss the case.
 4. All participants gather in the plenary session -- moderated by an expert -- to further discuss the case, exchange each other's insight and identify more constructive solutions.
 
-This systematic approach and its application in everyday life have so far transformed the life of more than 25 000 couples throughout the world.
+This systematic approach and its application in everyday life have so far transformed the life of more than 25,000 couples throughout the world.
