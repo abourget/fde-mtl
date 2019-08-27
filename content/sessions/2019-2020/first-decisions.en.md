@@ -1,7 +1,7 @@
 ---
 date: 2019-08-01T12:01:00-04:00
 draft: false
-title: "First Decisions - Dorval"
+title: "First Decisions - West Island"
 session:
   start_date: "Saturday, October 5th, 2019"
   course_image: "first-decisions.jpg"
@@ -44,10 +44,12 @@ registration:
 
 ---
 
-During the year 2019-2020, FDE Montreal offers the **First Decisions** course in Dorval.
+During the year 2019-2020, FDE Montreal offers the **First Decisions** course in the West Island.
 
 *NOTE*: A minimum of 15 registered couples is required before this course is
 confirmed. There is also a maximum of 30 couples for this session.
+
+The location will be confirmed soon.
 
 ---
 

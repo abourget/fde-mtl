@@ -49,6 +49,8 @@ Pour l'année 2019-2020, FDE Montréal offre le cours **Premiers pas** au centre
 *NOTE*: Un minimum de 15 couples inscrits est nécessaire afin de confirmer la
  tenue du cours. Il y a aussi un maximum de 30 couples pour cette session.
 
+L'accès par métro est facile. Le stationnement parfois limité autour de l'Université McGill.
+
 ---
 
 Ce cours s'adresse aux parents d'enfants de 0 à 3 ans et aux couples qui
