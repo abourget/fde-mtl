@@ -49,7 +49,7 @@ During the year 2019-2020, FDE Montreal plans to offer the **First Decisions** c
 *NOTE*: A minimum of 15 registered couples is required before this course is
 confirmed. There is also a maximum of 30 couples for this session.
 
-NOTE: The location is yet to be confirmed.  The schedule can also still depending on venue availability.
+NOTE: The location is yet to be confirmed.  The schedule can also still move depending on venue availability.
 
 ---
 
