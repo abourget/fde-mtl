@@ -3,7 +3,7 @@ date: 2019-08-01T12:14:00-04:00
 draft: true
 title: "Personal Project 2019 - Montreal"
 session:
-  start_date: "Saturday, October 5th, 2019"
+  start_date: "Saturday, September 14th, 2019"
   course_image: "young-professionals.jpg"
 venue:
   name: "McGill University - Room A 832"
@@ -13,6 +13,8 @@ venue:
   map_link: https://goo.gl/maps/RHEPz6Z4m1v
   zoom: 17
 schedule:
+- case: 0
+  date: Saturday, September 14th, 2019
 - case: 1
   date: Saturday, October 5th, 2019
 - case: 2
@@ -20,14 +22,17 @@ schedule:
   date: Saturday, November 9th, 2019
 - case: 3
   groups: true
-  date: Saturday, January 18th, 2020
+  date: Saturday, December 7th, 2019
 - case: 4
   groups: true
-  date: Saturday, February 15th, 2020
+  date: Saturday, January 18th, 2020
 - case: 5
   groups: true
-  date: Satuday, March 21st, 2020
+  date: Saturday, February 15th, 2020
 - case: 6
+  groups: true
+  date: Satuday, March 21st, 2020
+- case: 7
   groups: true
   date: Saturday, April 25th, 2020
 time:
@@ -46,7 +51,10 @@ registration:
 
 During the 2019-2020 year, FDE Montreal offers the **Personal Project** course in Montreal.
 
-Registration is required.
+September 14th is a zero session (open to all), and a demonstration of the methodology.
+
+Registration is required to participate in the course that runs from October
+2019 to April 2020.
 
 ---
 

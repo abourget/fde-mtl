@@ -9,20 +9,18 @@ RUN curl "https://caddyserver.com/download/linux/amd64?plugins=http.git,http.pro
 
 RUN mkdir /tmp/hugopkg; curl -L "https://github.com/gohugoio/hugo/releases/download/v0.57.2/hugo_0.57.2_Linux-64bit.tar.gz" | tar -vxzf - -C /tmp/hugopkg && mv /tmp/hugopkg/hugo /usr/bin/hugo && rm -rf /tmp/hugopkg
 
-ADD ./config.yaml /app/config.yaml
-ADD ./archetypes /app/archetypes
-ADD ./content /app/content
-ADD ./i18n /app/i18n
-ADD ./layouts /app/layouts
-ADD ./public /app/public
-ADD ./static /app/static
-ADD ./themes /app/themes
-
+# All these are pulled through `caddy`'s `http.git` plugin now.
+#ADD ./config.yaml /app/config.yaml
+#ADD ./archetypes /app/archetypes
+#ADD ./content /app/content
+#ADD ./i18n /app/i18n
+#ADD ./layouts /app/layouts
+#ADD ./public /app/public
+#ADD ./static /app/static
+#ADD ./themes /app/themes
 # ADD ./hugo /usr/bin/hugo
-
-ADD ./Caddyfile /etc/Caddyfile
-
-RUN cd /app; /usr/bin/hugo
+#RUN cd /app; /usr/bin/hugo
+#ADD ./Caddyfile /etc/Caddyfile
 
 ENTRYPOINT ["/sbin/tini"]
 
