@@ -44,12 +44,12 @@ registration:
 
 ---
 
-During the year 2019-2020, FDE Montreal offers the **First Decisions** course in the West Island.
+During the year 2019-2020, FDE Montreal plans to offer the **First Decisions** course in the West Island.
 
 *NOTE*: A minimum of 15 registered couples is required before this course is
 confirmed. There is also a maximum of 30 couples for this session.
 
-The location will be confirmed soon.
+NOTE: The location is yet to be confirmed.  The schedule can also still depending on venue availability.
 
 ---
 
