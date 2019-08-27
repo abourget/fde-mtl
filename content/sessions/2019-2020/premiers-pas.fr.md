@@ -1,5 +1,5 @@
 ---
-date: 2019-08-01T12:00:00-04:00
+date: 2019-08-01T12:02:00-04:00
 draft: false
 title: "Premiers pas 2019 - McGill"
 session:
