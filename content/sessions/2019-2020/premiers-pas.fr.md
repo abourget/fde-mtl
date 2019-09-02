@@ -31,8 +31,8 @@ schedule:
   groups: true
   date: Vendredi, 24 avril 2020
 time:
-  from: "19 h"
-  to: "22 h"
+  from: "19 h 30"
+  to: "21 h 30"
 cost:
   amount: 190
   per_couple: true

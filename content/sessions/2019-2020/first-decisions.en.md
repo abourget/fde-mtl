@@ -31,8 +31,8 @@ schedule:
    groups: true
    date: Saturday, May 2nd, 2020
 time:
-  from: "6:30pm"
-  to: "9:30pm"
+  from: "7pm"
+  to: "9pm"
 cost:
   amount: 175
   per_couple: true
