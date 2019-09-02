@@ -99,6 +99,6 @@
 - id: initiate_interac
   translation: "Initiez un <strong>transfer Interac</strong> à l'adresse suivante: <a href='mailto:%[1]s'>%[1]s</a>"
 - id: pay_cheque
-  translation: Préparez un <strong>chèque</strong> à l\'ordre de <em>"%s"</em> et apportez-le au organisateurs du cours
+  translation: Préparez un <strong>chèque</strong> à l'ordre de <em>"%s"</em> et apportez-le au organisateurs du cours
 - id: pay_cash
   translation: Les <strong>paiements en espèce</strong> en main propre aux organisateurs est aussi possible.
