@@ -3,7 +3,7 @@ date: 2019-08-01T12:14:00-04:00
 draft: false
 title: "Personal Project 2019 - Montreal"
 session:
-  start_date: "Saturday, October 5th, 2019"
+  start_date: "Saturday, September 14th, 2019"
   course_image: "young-professionals.jpg"
 venue:
   name: "McGill University - Room A 832"

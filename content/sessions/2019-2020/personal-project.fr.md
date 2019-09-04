@@ -1,7 +1,7 @@
 ---
 date: 2019-08-01T12:14:00-04:00
 session:
-  start_date: "Samedi, le 5 octobre 2019 (en anglais)"
+  start_date: "Samedi, le 14 septembre 2019 (en anglais)"
 title: "Personal Project 2019 (English) - Montreal"
 draft: false
 ---
