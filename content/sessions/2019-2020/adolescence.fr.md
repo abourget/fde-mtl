@@ -47,11 +47,11 @@ draft: false
 
 Le cours s'adresse aux parents d'enfants âgés de 11 à 17 ans.
 
-Pour plus d'informations, contacter Mme. Gravel au 418-956-5128 ou <a
+Pour plus d'informations, contacter Mme Gravel au 418-956-5128 ou <a
 href="mailto:yolainegravel@hotmail.com">yolainegravel@hotmail.com</a> ou M. Saint-Maurice au
 418-831-3999 ou <a href="mailto:ydesm@hotmail.ca">ydesm@hotmail.ca</a>
 
-La date limit pour l'inscription est le 22 septembre 2019.
+La date limite pour l'inscription est le 22 septembre 2019.
 
 ---
 
@@ -60,7 +60,7 @@ jeunes âgés de 11 à 17 ans, on s'inquiète parfois à cause des nombreux déf
 cela soulève! Il y a des joies et des souffrances comme dans tous les domaines
 reliés au rôle des parents.
 
-Le programme *Adolesence* soulève quelques-unes des nombreuses questions qui peuvent surgir
+Le programme *Adolescence* soulève quelques-unes des nombreuses questions qui peuvent surgir
 dans le vécu des adolescents et de leurs parents. Bien comprendre cette transition
 dans la vie des jeunes qui s'approchent de la vie adulte demeure un moyen efficace et
 rassurant de réussir dans le rôle d'éducateurs que sont les parents.

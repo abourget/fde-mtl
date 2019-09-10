@@ -58,7 +58,7 @@ Registration is required to participate in the course that runs from October
 
 ---
 
-This course is designed to help singles in their 20'sand early 30's plan and
+This course is designed to help singles in their 20's or 30's plan and
 live rich, productive lives, whether it be in their career, their relationships
 or their future marriage.
 
