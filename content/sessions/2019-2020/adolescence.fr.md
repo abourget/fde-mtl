@@ -37,7 +37,7 @@ cost:
   per_couple: true
 registration:
   registration_form: https://forms.gle/cqwT1DJHndfHcLTGA
-  interac: info@fde-mtl.ca
+  interac: ydesm@hotmail.ca
   cash: true
 draft: false
 
