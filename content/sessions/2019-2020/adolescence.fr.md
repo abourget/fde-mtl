@@ -2,7 +2,7 @@
 date: 2019-08-20T12:00:00-04:00
 title: "Adolescence - Québec"
 session:
-  start_date: "samedi le 28 septembre 2019"
+  start_date: "samedi le 26 octobre 2019"
   course_image: "adolescence.jpg"
 venue:
   name: "Centre de Formation Eastern Québec"
@@ -13,22 +13,22 @@ venue:
   zoom: 16
 schedule:
  - case: 1
-   date: "Samedi, 28 septembre 2019"
+   date: "Samedi, 26 octobre 2019"
  - case: 2
    groups: true
-   date: "Samedi, 26 octobre 2019"
+   date: "Samedi, 30 novembre 2019"
  - case: 3
    groups: true
-   date: "Samedi, 30 novembre 2019"
+   date: "Samedi, 25 janvier 2020"
  - case: 4
    groups: true
-   date: "Samedi, 25 janvier 2020"
+   date: "Samedi, 29 février 2020"
  - case: 5
    groups: true
-   date: "Samedi, 29 février 2020"
+   date: "Samedi, 28 mars 2020"
  - case: 6
    groups: true
-   date: "Samedi, 28 mars 2020"
+   date: "Samedi, 25 avril 2020"
 time:
   from: "19 h 30"
   to: "21 h 30"
