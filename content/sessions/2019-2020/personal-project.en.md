@@ -8,8 +8,8 @@ session:
 venue:
   name: "McGill University - Room A 832"
   address: "Schulich School of Music - 527 Sherbrooke West, Montreal, Quebec, H3A 1E3"
-  latitude: 45.5056771
-  longitude: -73.5732711
+  latitude: 45.5063585
+  longitude: -73.5732991
   map_link: https://goo.gl/maps/E23wW6jM9UdJem4A7
   zoom: 17
 schedule:
