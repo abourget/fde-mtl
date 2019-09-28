@@ -10,7 +10,7 @@ venue:
   address: "Schulich School of Music - 527 Sherbrooke West, Montreal, Quebec, H3A 1E3"
   latitude: 45.5056771
   longitude: -73.5732711
-  map_link: https://goo.gl/maps/RHEPz6Z4m1v
+  map_link: https://goo.gl/maps/E23wW6jM9UdJem4A7
   zoom: 17
 schedule:
 - case: 0
@@ -58,7 +58,7 @@ Registration is required to participate in the course that runs from October
 
 ---
 
-This course is designed to help singles in their 20's or 30's plan and
+This course is designed to help young professionals plan and
 live rich, productive lives, whether it be in their career, their relationships
 or their future marriage.
 
