@@ -43,7 +43,7 @@ draft: false
 
 ---
 
-À compter du samedi 28 septembre 2019, IFFD Canada offre le cours **Adolescence** à **Québec**.
+À compter du samedi 26 octobre 2019, IFFD Canada offre le cours **Adolescence** à **Québec**.
 
 Le cours s'adresse aux parents d'enfants âgés de 11 à 17 ans.
 
@@ -51,7 +51,7 @@ Pour plus d'informations, contacter Mme Gravel au 418-956-5128 ou <a
 href="mailto:yolainegravel@hotmail.com">yolainegravel@hotmail.com</a> ou M. Saint-Maurice au
 418-831-3999 ou <a href="mailto:ydesm@hotmail.ca">ydesm@hotmail.ca</a>
 
-La date limite pour l'inscription est le 22 septembre 2019.
+La date limite pour l'inscription est le 20 octobre 2019.
 
 ---
 
