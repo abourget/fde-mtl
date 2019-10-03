@@ -1,9 +1,8 @@
 ---
 date: 2019-08-01T12:02:00-04:00
-draft: false
 title: "Premiers pas 2019 - McGill"
 session:
-  start_date: "Vendredi, 4 octobre 2019"
+  start_date: "Annulé"
   course_image: "first-steps.jpg"
 venue:
   name: "McGill University - Room A 832"
@@ -12,7 +11,7 @@ venue:
   longitude: -73.5732991
   map_link: https://goo.gl/maps/E23wW6jM9UdJem4A7
   zoom: 17
-schedule:
+schedule_:
 - case: 1
   date: "Vendredi, 4 octobre 2019"
 - case: 2
@@ -30,13 +29,13 @@ schedule:
 - case: 6
   groups: true
   date: Vendredi, 24 avril 2020
-time:
+time_:
   from: "19 h 30"
   to: "21 h 30"
-cost:
+cost_:
   amount: 190
   per_couple: true
-registration:
+registration_:
   registration_form: https://forms.gle/vHD15HYJveKVwPuj8
   interac: info@fde-mtl.ca
   cash: true
@@ -44,7 +43,9 @@ registration:
 
 ---
 
-Pour l'année 2019-2020, FDE Montréal offre le cours **Premiers pas** au centre-ville de Montréal, dans les locaux de l'Université McGill.
+Le cours **Premier pas** prévu pour l'année 2019-2020, a été annulé en raison d'un nombre d'inscriptions insuffisantes.
+
+---
 
 *NOTE*: Un minimum de 15 couples inscrits est nécessaire afin de confirmer la
  tenue du cours. Il y a aussi un maximum de 30 couples pour cette session.
