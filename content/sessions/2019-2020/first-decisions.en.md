@@ -45,6 +45,9 @@ During the year 2019-2020, FDE Montreal offers the **First Decisions** course in
 *NOTE*: A minimum of 15 registered couples is required before this course is
 confirmed. There is also a maximum of 30 couples for this session.
 
+*NOTE*: We previously announced an October 5th start, but this was delayed until
+ November 9th.
+
 ---
 
 This course is for parents with children from 8 to 11 years old.
