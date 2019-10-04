@@ -1,33 +1,29 @@
 ---
 date: 2019-08-01T12:01:00-04:00
-draft: false
-title: "First Decisions - West Island"
+title: "First Decisions - Dorval"
 session:
-  start_date: "Saturday, October 5th, 2019"
+  start_date: "Saturday, Novembre 9th, 2019"
   course_image: "first-decisions.jpg"
 venue:
-  name: "West Island"
-  address: "Near Dorval, Lachine, Pointe-Claire"
-  latitude: 45.4469015
-  longitude: -73.7418256
-  map_link: https://goo.gl/maps/TDY2SyanuC6EhAWH7
-  zoom: 13
+  name: "Salle La Rotonde"
+  address: "479 Mousseau-Vermette, Dorval, QC H9S 1A9"
+  latitude: 45.4476564
+  longitude: -73.7271162
+  map_link: https://goo.gl/maps/rUn1ijH2NKbgco6f7
+  zoom: 17
 schedule:
  - case: 1
-   date: Saturday, October 5th, 2019
+   date: Saturday, November 9th, 2019
  - case: 2
    groups: true
-   date: Saturday, November 9th, 2019
+   date: Saturday, January 18th, 2020
  - case: 3
    groups: true
-   date: Saturday, January 18th, 2020
+   date: Saturday, February 15th, 2020
  - case: 4
    groups: true
-   date: Saturday, February 15th, 2020
- - case: 5
-   groups: true
    date: Saturday, March 28th, 2020
- - case: 6
+ - case: 5
    groups: true
    date: Saturday, May 2nd, 2020
 time:
@@ -39,17 +35,15 @@ cost:
 registration:
   registration_form: "https://forms.gle/LEtGGTDrPk3CbzZu6"
   interac: info@fde-mtl.ca
-  _cash: true
+  cash: true
   _cheque: "Famille, Développement et Éducation Montréal"
 
 ---
 
-During the year 2019-2020, FDE Montreal plans to offer the **First Decisions** course in the West Island.
+During the year 2019-2020, FDE Montreal offers the **First Decisions** course in Dorval.
 
 *NOTE*: A minimum of 15 registered couples is required before this course is
 confirmed. There is also a maximum of 30 couples for this session.
-
-NOTE: The location is yet to be confirmed.  The schedule can also still move depending on venue availability.
 
 ---
 
