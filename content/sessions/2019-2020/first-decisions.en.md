@@ -26,6 +26,9 @@ schedule:
  - case: 5
    groups: true
    date: Saturday, May 2nd, 2020
+ - case: 6
+   groups: true
+   date: Saturday, May 30th, 2020
 time:
   from: "7pm"
   to: "9pm"
