@@ -36,11 +36,10 @@ cost_:
   amount: 190
   per_couple: true
 registration_:
-  registration_form: https://forms.gle/vHD15HYJveKVwPuj8
   interac: info@fde-mtl.ca
   cash: true
   cheque: "Famille, Développement et Éducation Montréal"
-
+past: true
 ---
 
 Le cours **Premier pas** prévu pour l'année 2019-2020, a été annulé en raison d'un nombre d'inscriptions insuffisantes.

@@ -5,6 +5,7 @@ title: "Premiers pas (Français) - McGill"
 session:
   start_date: "Friday, October 4th 2019"
   course_image: "first-steps.jpg"
+past: true
 ---
 
 For the year 2019-2020, FDE Montreal offers the **First Steps** course in French, in downtown Montreal (McGill University).

@@ -1,5 +1,5 @@
 ---
-date: 2019-08-01T12:01:00-04:00
+date: 2020-09-22T12:01:00-04:00
 title: "Matrimonial Love - Online"
 session:
   start_date: "Saturday, October 17th, 2020"

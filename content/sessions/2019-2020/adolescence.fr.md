@@ -35,11 +35,11 @@ time:
 cost:
   amount: 200
   per_couple: true
-registration:
-  registration_form: https://forms.gle/cqwT1DJHndfHcLTGA
+registration_:
   interac: ydesm@hotmail.ca
   cash: true
 draft: false
+past: true
 
 ---
 

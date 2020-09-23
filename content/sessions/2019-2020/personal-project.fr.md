@@ -4,6 +4,7 @@ session:
   start_date: "Samedi, le 14 septembre 2019 (en anglais)"
 title: "Personal Project 2019 (English) - Montreal"
 draft: false
+past: true
 ---
 
 Pendant l'année 2019-2020, FDE Montréal offre le cours **Personal Project** en

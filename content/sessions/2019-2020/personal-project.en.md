@@ -41,12 +41,12 @@ time:
 cost:
   amount: 250
   per_couple: false
-registration:
-  registration_form: "https://forms.gle/ScUKBPufLoQ6WUSa7"
+registration_:
+  _registration_form: "https://forms.gle/ScUKBPufLoQ6WUSa7"
   interac: info@fde-mtl.ca
   cash: true
   cheque: "Famille, Développement et Éducation Montréal"
-
+past: true
 ---
 
 During the 2019-2020 year, FDE Montreal offers the **Personal Project** course in Montreal.

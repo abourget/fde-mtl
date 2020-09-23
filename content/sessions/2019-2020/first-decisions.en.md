@@ -35,11 +35,12 @@ time:
 cost:
   amount: 175
   per_couple: true
-registration:
-  registration_form: "https://forms.gle/LEtGGTDrPk3CbzZu6"
+registration_:
+  _registration_form: "https://forms.gle/LEtGGTDrPk3CbzZu6"
   interac: info@fde-mtl.ca
   cash: true
   _cheque: "Famille, Développement et Éducation Montréal"
+past: true
 
 ---
 
