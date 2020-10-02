@@ -1,6 +1,6 @@
 ---
 date: 2020-09-22T12:01:00-04:00
-title: "Matrimonial Love - Online"
+title: "Married Love - Online"
 session:
   start_date: "Saturday, October 17th, 2020"
   course_image: "marriedlove.jpg"
@@ -40,10 +40,11 @@ registration:
   interac: info@fde-mtl.ca
   _cash: true
   _cheque: "Famille, Développement et Éducation Montréal"
-
+aliases:
+- /en/sessions/2020-2021/matrimonial-love/
 ---
 
-During the year 2020-2021, FDE Montreal offers the **Matrimonial Love** course
+During the year 2020-2021, FDE Montreal offers the **Married Love** course
 in the greater Montreal area.
 
 ---
