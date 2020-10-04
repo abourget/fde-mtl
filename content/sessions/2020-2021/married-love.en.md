@@ -49,7 +49,7 @@ in the greater Montreal area.
 
 ---
 
-For couples of all the ages
+For couples of all ages
 
 <!-- taken from: http://iffd.org/married-love/ -->
 <!-- see also: https://www.familydevelopment.ca/course/marital-love/ -->
@@ -61,7 +61,7 @@ This course will help couples by providing them with the knowledge and tools to 
 Topics:
 
 * Love Bond
-* Sexual Persons
+* Sexuality
 * Marital Communication
 * Work And Family
 * Family Life
