@@ -97,7 +97,7 @@
 - id: pay_now
   translation: "/images/payer_avec_paypal.gif"
 - id: initiate_interac
-  translation: "Initiez un <strong>transfer Interac</strong> à l'adresse suivante: <a href='mailto:%[1]s'>%[1]s</a>"
+  translation: "Initiez un <strong>virement Interac</strong> à l'adresse suivante: <a href='mailto:%[1]s'>%[1]s</a>, avec pour mot de passe 'famille'"
 - id: pay_cheque
   translation: Préparez un <strong>chèque</strong> à l'ordre de <em>"%s"</em> et apportez-le au organisateurs du cours
 - id: pay_cash

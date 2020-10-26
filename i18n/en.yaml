@@ -93,7 +93,7 @@
 - id: pay_now
   translation: https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif
 - id: initiate_interac
-  translation: 'Initiate an <strong>Interac Transfer</strong> to this address: <a href="mailto:%[1]s">%[1]s</a>'
+  translation: 'Initiate an <strong>Interac Transfer</strong> to this address: <a href="mailto:%[1]s">%[1]s</a>, and use "family" as password'
 - id: pay_cheque
   translation: 'Prepare a <strong>cheque</strong> labeled to <em>"%s"</em> and bring it to the course organizers'
 - id: pay_cash
