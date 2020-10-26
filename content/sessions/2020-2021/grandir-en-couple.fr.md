@@ -40,7 +40,7 @@ registration:
   interac: info@fde-mtl.ca
 ---
 
-À compter du samedi 12 janvier 2019, IFFD Canada offre le cours **Grandir en
+À compter du samedi 28 novembre 2020, IFFD Canada offre le cours **Grandir en
 couple** en ligne, avec des participants **partout au Québec** et dans le reste
 du Canada.
 
