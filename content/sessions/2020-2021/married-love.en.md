@@ -36,10 +36,11 @@ cost:
   amount: 175
   per_couple: true
 registration:
-  registration_form: "https://forms.gle/hHqfmfFB3SDxssBJ7"
-  interac: info@fde-mtl.ca
+  _registration_form: "https://forms.gle/hHqfmfFB3SDxssBJ7"
+  _interac: info@fde-mtl.ca
   _cash: true
   _cheque: "Famille, Développement et Éducation Montréal"
+past: true
 aliases:
 - /en/sessions/2020-2021/matrimonial-love/
 ---

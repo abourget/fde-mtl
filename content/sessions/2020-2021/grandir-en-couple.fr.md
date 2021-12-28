@@ -36,8 +36,9 @@ cost:
   amount: 125
   per_couple: true
 registration:
-  registration_form: https://forms.gle/ot5L4m7kLMqNodC89
-  interac: info@fde-mtl.ca
+  _registration_form: https://forms.gle/ot5L4m7kLMqNodC89
+  _interac: info@fde-mtl.ca
+past: true
 ---
 
 À compter du samedi 28 novembre 2020, IFFD Canada offre le cours **Grandir en
