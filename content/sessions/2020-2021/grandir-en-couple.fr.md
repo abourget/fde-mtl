@@ -35,7 +35,7 @@ time:
 cost:
   amount: 125
   per_couple: true
-registration:
+_registration:
   _registration_form: https://forms.gle/ot5L4m7kLMqNodC89
   _interac: info@fde-mtl.ca
 past: true

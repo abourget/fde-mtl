@@ -35,7 +35,7 @@ time:
 cost:
   amount: 200
   per_couple: true
-registration_:
+_registration:
   interac: ydesm@hotmail.ca
   cash: true
 draft: false
