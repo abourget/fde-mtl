@@ -40,7 +40,7 @@ registration:
   interac: info@fde-mtl.ca
 ---
 
-À compter du samedi 28 novembre 2020, IFFD Canada offre le cours **Premiers
+À compter du samedi 22 janvier 2022, IFFD Canada offre le cours **Premiers
 pas** en ligne, avec des participants **partout au Québec** et dans le reste du
 Canada.
 
