@@ -2,7 +2,8 @@
 categories:
  - news
 date: 2022-04-14T12:00:00-05:00
-title: "Conférence numérique 2022: Love Talks - Sexualité et Affectivité"
+title: "IFFD Conférence numérique 2022: Love Talks - Sexualité et Affectivité"
+slug: iffd-conference-numerique--2022-love-talks-sexualite-et-affectivite
 ---
 
 L'IFFD (Fédération internationale pour le développement de la famille) organise son premier congrès digitale sur les thèmes de la sexualité et de l'affectivité. Il s'agit de conférences animées par plus de 40 experts internationaux sur ces sujets.
