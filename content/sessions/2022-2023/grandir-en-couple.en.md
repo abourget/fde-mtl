@@ -10,4 +10,4 @@ session_language: "fr"
 
 Starting October 28th 2022, IFFD Canada offers **Grandir en couple**, the French version of **Married love**.
 
-See [this page for details]({{< relref path="grandir-en-couple.md" lang="fr" >}}).
+See [this page for details]({{< relref path="content/sessions/2022-2023/grandir-en-couple.md" lang="fr" >}}).
