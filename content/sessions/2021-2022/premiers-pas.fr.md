@@ -32,12 +32,13 @@ schedule:
 time:
   from: "20 h 00"
   to: "21 h 30"
-cost:
+cost_disabled:
   amount: 150
   per_couple: true
-registration:
+registration_disabled:
   registration_form: https://forms.gle/nxzdgVMhR9LBvvoVA
   interac: info@fde-mtl.ca
+past: true
 ---
 
 À compter du samedi 22 janvier 2022, IFFD Canada offre le cours **Premiers
@@ -53,21 +54,3 @@ comportement chez les enfants en bas âges.
 
 Pour plus d'information, vous pouvez aussi contacter Yolaine Gravel au
 418-831-3999.
-
----
-
-<!--
-
-Pitch du cours en FR
-
-Sujets:
-*
-*
-*
-*
-*
-*
-
--->
-
-<!--more-->
