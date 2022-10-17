@@ -1,7 +1,7 @@
 {{ with .Params.schedule }}
   <ul>
     {{ range . }}
-      <li>{{ i18n "schedule_plenary" (dict "num" .case) }}{{ if .groups }} *{{ end }}: <strong>{{ .date }}</strong></li>
+      <li>{{ i18n "schedule_plenary" (dict "num" .case) }}{{ if .groups }} * {{ end }}: <strong>{{ .date }}</strong></li>
     {{ end }}
   </ul>
   * {{ i18n "schedule_plenary_note" }}
