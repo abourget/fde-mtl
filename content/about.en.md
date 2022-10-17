@@ -22,6 +22,13 @@ world benefited from these courses.
 _FDE Montreal_ is responsible for bringing those courses to the greater Montreal
 area.
 
----
 
-For any information, reach us at <a href="mailto:info@fde-mtl.ca">info@fde-mtl.ca</a>.
+## Mission
+
+Our aim is to aid in the formation of happy families around Montreal. We do this by:
+
+* Helping to strengthen the marriage bond between spouses.
+* Assisting parents in the challenge of raising and educating their children.
+* Facilitating the interaction and exchange of ideas and experiences among couples
+
+We achieve the above primarily by offering IFFD courses that are delivered in a professional yet friendly ambience.

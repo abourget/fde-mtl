@@ -50,6 +50,14 @@ Il a pour but d'améliorer les habiletés de communication dans le couple.
 Cinq sessions plénières sont étalées sur l'année scolaire 2022-2023.
 Entre chaque session plénière, une rencontre en petit groupe est organisée par les membres des petits groups (organisés lors de la première plénière).
 
-Ces cours sont un excellent prétexte pour prendre une soirée ensemble. Invitez des couples d'amis pour des rencontres inoubliables.
+Ces cours sont un excellent prétexte pour se retrouver hors de la routine. Invitez des couples d'amis pour des rencontres inoubliables.
+
+Les sujets abordés seront:
+
+* La communication dans le couple
+* L'amour conjugal
+* La sexualité dans le mariage
+* Le budget
+* L'équilibre travail / famille
 
 Pour plus d'information, contactez nous à l'adresse: <a href="mailto:francais@fde-mtl.ca">francais@fde-mtl.ca</a>

@@ -5,7 +5,6 @@ title: À propos
 menu:
   main:
     weight: 10
-
 ---
 
 Famille, Développement et Éducation (FDE) est un organisme à but non lucratif affilié à
@@ -19,7 +18,14 @@ Depuis plus de quatre décennies maintenant, des dizaines de milliers de couples
 
 _FDE Montréal_ organise ces cours dans la grande région de Montréal.
 
----
 
-Vous pouvez nous joindre à l'adresse <a
-href="mailto:info@fde-mtl.org">info@fde-mtl.ca</a>.
+
+## Mission
+
+Notre objectif est d'aider à la formation de familles heureuses autour de Montréal, principalement en:
+
+* aidant à solidifier les liens matrimoniaux entre époux,
+* assistant les parents dans les défis liés à l'éducation des enfants,
+* facilitant l'interaction et l'échange d'idées et d'expériences entre les couples,
+
+principalement par l'offre des cours de l'IFFD, qui sont donnés de manière professionnelle dans une ambiance amicale.
