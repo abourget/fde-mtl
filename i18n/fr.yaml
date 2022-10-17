@@ -64,10 +64,8 @@
 
 - id: schedule_plenary
   translation: "Plénière cas {{ .num }}"
-- id: schedule_small_group_meeting
-  translation: "Rencontre en sous-groupes, cas {{.num }}, avant la plénière suivante"
 - id: schedule_plenary_note
-  translation: "Les rencontres en sous-groupes ont lieu chez les participants ou en ligne, à une date convenue avec le groupe. Nous suggérons 1 à 2 semaines avant la plénière."
+  translation: "Une ou deux semaines avant cette plénière, une rencontre en sous-groupe est organisée par ses membres, en ligne ou en un lieu convenu, pour préparer le cas."
 - id: course_schedule
   translation: "Horaire des cours"
 - id: hourly_time

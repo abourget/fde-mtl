@@ -1,10 +1,7 @@
 {{ with .Params.schedule }}
   <ul>
     {{ range . }}
-      {{ if .groups }}
-        <li>{{ i18n "schedule_small_group_meeting" (dict "num" .case) }} *</li>
-      {{ end }}
-      <li>{{ i18n "schedule_plenary" (dict "num" .case) }}: <strong>{{ .date }}</strong></li>
+      <li>{{ i18n "schedule_plenary" (dict "num" .case) }}: <strong>{{ .date }}</strong> {{ if .groups }}*{{ end }}</li>
     {{ end }}
   </ul>
   * {{ i18n "schedule_plenary_note" }}

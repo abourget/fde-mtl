@@ -48,6 +48,8 @@ Le cours s'adresse aux couples mariés (où presque mariés), avec ou sans enfan
 Il a pour but d'améliorer les habiletés de communication dans le couple.
 
 Cinq sessions plénières sont étalées sur l'année scolaire 2022-2023.
-Entre chaque session plénière, une rencontre en petit groupe est organisée par les membres des petits groups organisés lors de la première plénière.
+Entre chaque session plénière, une rencontre en petit groupe est organisée par les membres des petits groups (organisés lors de la première plénière).
+
+Ces cours sont un excellent prétexte pour prendre une soirée ensemble. Invitez des couples d'amis pour des rencontres inoubliables.
 
 Pour plus d'information, contactez nous à l'adresse: <a href="mailto:francais@fde-mtl.ca">francais@fde-mtl.ca</a>
