@@ -24,7 +24,7 @@ Languages:
     title: "FDE Montréal"
     languageCode: "fr-CA"
 
-    copyright: "FDE Montréal © Tous droits réservés 2022"
+    copyright: "© FDE Montréal 2022"
 
   en:
     weight: 2
@@ -32,7 +32,7 @@ Languages:
     title: "FDE Montreal"
     languageCode: "en-CA"
 
-    copyright: "Copyright 2022 © FDE Montreal."
+    copyright: "© 2022 FDE Montreal"
 
 
 params:
