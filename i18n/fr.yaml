@@ -99,4 +99,4 @@
 - id: pay_cheque
   translation: Préparez un <strong>chèque</strong> à l'ordre de <em>"%s"</em> et apportez-le au organisateurs du cours
 - id: pay_cash
-  translation: Les <strong>paiements en espèce</strong> en main propre aux organisateurs est aussi possible.
+  translation: Les <strong>paiements en espèce</strong> en main propre aux organisateurs sont aussi possibles.
