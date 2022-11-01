@@ -2,7 +2,7 @@
 date: 2022-10-01T12:00:00-04:00
 title: "Grandir en couple - En personne"
 session:
-  start_date: "vendredi, 28 octobre 2022"
+  start_date: "vendredi, 2 décembre 2022"
   course_image: "marriedlove.jpg"
 session_language: "fr"
 venue:
@@ -14,18 +14,14 @@ venue:
   zoom: 17
 schedule:
  - case: 1
-   date: "vendredi, 28 octobre 2022"
- - case: 2
-   groups: true
    date: "vendredi, 2 décembre 2022"
- - case: 3
-   groups: true
+ - case: 2
    date: "vendredi, 27 janvier 2023"
- - case: 4
-   groups: true
+ - case: 3
    date: "vendredi, 17 mars 2023"
+ - case: 4
+   date: "vendredi, 21 avril 2023"
  - case: 5
-   groups: true
    date: "vendredi, 5 mai 2023"
 time:
   from: "19 h 30"
@@ -47,10 +43,7 @@ Le cours s'adresse aux couples mariés (ou presque mariés), avec ou sans enfant
 
 Il a pour but d'améliorer les habiletés de communication dans le couple.
 
-Cinq sessions plénières sont étalées sur l'année scolaire 2022-2023.
-Entre chaque session plénière, une rencontre en petit groupe est organisée par les membres des petits groups (organisés lors de la première plénière).
-
-Ces cours sont un excellent prétexte pour se retrouver hors de la routine. Invitez des couples d'amis pour des rencontres inoubliables.
+Ces cours sont un excellent prétexte pour se retrouver en couple, loin de la routine, pour réfléchir à des sujets importants de la vie à deux.
 
 Les sujets abordés seront:
 
@@ -61,3 +54,5 @@ Les sujets abordés seront:
 * L'équilibre travail / famille
 
 Pour plus d'information, contactez nous à l'adresse: <a href="mailto:francais@fde-mtl.ca">francais@fde-mtl.ca</a>
+
+À NOTER: il n'y aura pas de rencontres de petits groupes durant cette session. Seulement la préparation dans le couple ainsi que les plénières seront requises.
