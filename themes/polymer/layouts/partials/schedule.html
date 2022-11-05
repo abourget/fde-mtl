@@ -1,8 +1,11 @@
+{{ $.Scratch.Set "has_schedule" false }}
 {{ with .Params.schedule }}
   <ul>
     {{ range . }}
-      <li>{{ i18n "schedule_plenary" (dict "num" .case) }}{{ if .groups }}<strong>*</strong>{{ end }}: <strong>{{ .date }}</strong></li>
+      <li>{{ i18n "schedule_plenary" (dict "num" .case) }}{{ if .groups }}{{ $.Scratch.Set "has_schedule" true }}<strong>*</strong>{{ end }}: <strong>{{ .date }}</strong></li>
     {{ end }}
   </ul>
+  {{ with $.Scratch.Get "has_schedule" }}
   * {{ i18n "schedule_plenary_note" }}
+  {{ end }}
 {{ end }}
