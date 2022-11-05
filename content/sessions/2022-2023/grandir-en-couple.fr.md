@@ -36,7 +36,7 @@ registration:
 
 ---
 
-À compter du 28 octobre 2022, IFFD Canada offre le cours **Grandir en
+À compter du 2 décembre 2022, IFFD Canada offre le cours **Grandir en
 couple** à **Montréal**, dans les locaux de l'Université McGill.
 
 Le cours s'adresse aux couples mariés (ou presque mariés), avec ou sans enfants.
