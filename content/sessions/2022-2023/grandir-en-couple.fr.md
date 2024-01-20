@@ -29,11 +29,11 @@ time:
 cost:
   amount: 225
   per_couple: true
-registration:
+_registration:
   registration_form: https://forms.gle/TdTYyV3KjcGLCnX3A
   interac: info@fde-mtl.ca
   cash: true
-
+past: true
 ---
 
 À compter du 2 décembre 2022, IFFD Canada offre le cours **Grandir en

@@ -5,6 +5,7 @@ session:
   start_date: "vendredi, 28 octobre 2022"
   course_image: "marriedlove.jpg"
 session_language: "fr"
+past: true
 
 ---
 
