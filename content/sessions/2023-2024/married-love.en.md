@@ -30,7 +30,7 @@ time:
   from: "7pm"
   to: "9:30pm"
 cost:
-  amount: 175
+  amount: 225
   per_couple: true
 registration:
   registration_form: "https://forms.gle/3T2HFBBQtLWyh9KFA"
