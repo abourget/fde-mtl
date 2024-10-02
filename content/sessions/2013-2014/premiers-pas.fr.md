@@ -5,7 +5,7 @@ title: "Premiers pas - Longueuil"
 session:
   start_date: "vendredi le 14 septembre 2013"
   course_image: "first-steps.jpg"
-session_language: "fr"
+  language: "fr"
 venue:
   name: "Maison Gisèle Auprix-St-Germain, Salle Ste-Élizabeth"
   address: "150, rue Grant, Longueuil, J4H 3H6"

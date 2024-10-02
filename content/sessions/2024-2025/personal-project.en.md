@@ -4,7 +4,7 @@ title: "Personal Project"
 session:
   start_date: "November 2024"
   course_image: "young-professionals.jpg"
-session_language: "en"
+  language: "en"
 venue:
   name: "Montreal - Venue to be determined"
   latitude: 45.5457264

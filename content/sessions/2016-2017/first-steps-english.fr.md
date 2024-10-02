@@ -2,8 +2,8 @@
 date: 2016-11-11T12:00:00-04:00
 session:
   start_date: "vendredi le 17 janvier 2017 (en anglais)"
+  language: "en"
 title: "Premiers pas (Anglais) - McGill"
-session_language: "en"
 past: true
 aliases:
 - /fr/sessions/session-2016-09-first-steps-english/

@@ -2,8 +2,8 @@
 date: 2014-08-01T12:14:00-04:00
 session:
   start_date: "Vendredi le 26 septembre 2014 (in French)"
+  language: "fr"
 title: "Premières lettres (French) - Longueuil"
-session_language: "fr"
 past: true
 aliases:
 - /en/sessions/session-2014-09-premieres-lettres/

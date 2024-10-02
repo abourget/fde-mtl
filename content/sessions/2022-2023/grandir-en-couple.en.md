@@ -4,7 +4,7 @@ title: "Grandir en couple"
 session:
   start_date: "vendredi, 28 octobre 2022"
   course_image: "marriedlove.jpg"
-session_language: "fr"
+  language: "fr"
 past: true
 
 ---

@@ -1,10 +1,10 @@
 ---
 date: 2024-09-20T12:01:00-04:00
 title: "Personal Project (anglais)"
-session_language: "en"
 session:
   start_date: "Novembre 2024"
   course_image: "young-professionals.jpg"
+  language: "en"
 venue:
   name: "Montreal - Venue to be determined"
   latitude: 45.5457264

@@ -4,7 +4,7 @@ title: "Grandir en couple - En personne"
 session:
   start_date: "vendredi, 2 décembre 2022"
   course_image: "marriedlove.jpg"
-session_language: "fr"
+  language: "fr"
 venue:
   name: "Université McGill - Local A-832"
   address: "École de musique Schulich - 527 Sherbrooke West, Montreal, Quebec, H3A 1E3"

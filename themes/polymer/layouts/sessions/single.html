@@ -16,7 +16,7 @@
                         permalink="{{ .Permalink }}"
                         label="{{ .Title }}"
                         venue="{{ $p.venue.name }}"
-                        language="{{ i18n (printf "language_%s" .Lang) }}"
+                        language="{{ if $p.session.language }}{{ $p.session.language }}{{ end }}"
                         past="{{ if $p.past }}{{i18n "past"}}{{end}}"
                         mapslink="{{ $p.venue.map_link }}"
                         startdate="{{ i18n "starts" }} {{ $p.session.start_date }}"></fde-course>
@@ -29,7 +29,7 @@
 
   {{ if .Params.venue }}
 
-    {{ printf (i18n "course_offered_and_starts") (i18n (printf "language_%s" $.Site.Language.Lang)) }} <strong>{{ $p.session.start_date }}</strong>.
+    {{ printf (i18n "course_offered_and_starts") (i18n (printf "language_%s" $p.session.language)) }} <strong>{{ $p.session.start_date }}</strong>.
 
   {{ end }}
 

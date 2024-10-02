@@ -5,7 +5,7 @@ title: "Adolescence - Montreal"
 session:
   start_date: "Saturday, October 28th 2017"
   course_image: "adolescence.jpg"
-session_language: "en"
+  language: "en"
 venue:
   name: "Loyola High School"
   address: "7272 W. Sherbrooke St, Montreal, H4B 1R2"

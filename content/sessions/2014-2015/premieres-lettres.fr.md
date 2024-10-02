@@ -5,7 +5,7 @@ title: "Premières lettres - Longueuil"
 session:
   start_date: "vendredi le 26 septembre 2014"
   course_image: "first-letters.jpg"
-session_language: "fr"
+  language: "fr"
 venue:
   name: "Maison Gisèle Auprix-St-Germain, Salle Ste-Élizabeth"
   address: "150, rue Grant, Longueuil, J4H 3H6"

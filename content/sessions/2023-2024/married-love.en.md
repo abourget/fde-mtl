@@ -32,12 +32,12 @@ time:
 cost:
   amount: 225
   per_couple: true
-registration:
-  registration_form: "https://forms.gle/3T2HFBBQtLWyh9KFA"
-  interac: info@fde-mtl.ca
-  _cash: true
-  _cheque: ""
-past: false
+#registration:
+  #registration_form: "https://forms.gle/3T2HFBBQtLWyh9KFA"
+  #interac: info@fde-mtl.ca
+  #_cash: true
+  #_cheque: ""
+past: true
 ---
 
 During the winter and spring of 2024, FDE Montreal offers the **Married Love 1** course

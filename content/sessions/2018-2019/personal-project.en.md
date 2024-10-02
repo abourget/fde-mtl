@@ -5,7 +5,7 @@ title: "Personal Project 2018 - Montreal"
 session:
   start_date: "Saturday, October 20th 2018"
   course_image: "young-professionals.jpg"
-session_language: "en"
+  language: "en"
 venue:
   name: "McGill University - Room A 832"
   address: "Schulich School of Music - 527 Sherbrooke West, Montreal, Quebec, H3A 1E3"

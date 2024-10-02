@@ -72,12 +72,15 @@
           {{ startdate }}
         </paper-icon-item>
 
-        <paper-icon-item class="course-lang">
-          <iron-icon icon="icons:language" item-icon></iron-icon>
-          <paper-item-body>
-            <div>{{ capitalizeFirst(language) }}</div>
-          </paper-item-body>
-        </paper-icon-item>
+
+        <template is="dom-if" if="[[language]]">
+          <paper-icon-item class="course-lang">
+            <iron-icon icon="icons:language" item-icon></iron-icon>
+            <paper-item-body>
+              <div>{{ mapLanguage(language) }}</div>
+            </paper-item-body>
+          </paper-icon-item>
+        </template>
       </div>
 
       <div class="card-actions" hidden$="{{ !details }}">
@@ -117,8 +120,14 @@
         value: ""
       }
     },
-    capitalizeFirst: function(input) {
-      return input.charAt(0).toUpperCase() + input.slice(1);
+    mapLanguage: function(input) {
+      switch(input) {
+        case 'fr':
+        return 'Français'
+        case 'en':
+        return 'English'
+      }
+      return ''
     }
   });
   </script>

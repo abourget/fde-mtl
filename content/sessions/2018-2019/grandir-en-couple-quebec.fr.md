@@ -6,7 +6,7 @@ aliases:
 session:
   start_date: "samedi le 12 janvier 2019"
   course_image: "marriedlove.jpg"
-session_language: "fr"
+  language: "fr"
 resources:
 - name: pub
   src: images/pub.jpg

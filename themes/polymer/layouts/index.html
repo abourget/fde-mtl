@@ -33,7 +33,7 @@
                   permalink="{{ $v.Permalink }}"
                   label="{{ $o.Title }}"
                   past="{{if $vp.past }}{{i18n "past"}}{{end}}"
-                  language="{{ i18n (printf "language_%s" $v.Lang) }}"
+                  language="{{ if $vp.session.language }}{{ $vp.session.language }}{{ end }}"
                   venue="{{ $vp.venue.name }}"
                   mapslink="{{ $vp.venue.map_link }}"
                   startdate="{{ i18n "starts" }} {{ $vp.session.start_date }}"

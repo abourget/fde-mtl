@@ -2,8 +2,8 @@
 date: 2013-08-01T12:14:00-04:00
 session:
   start_date: "Vendredi le 14 septembre 2013 (in French)"
+  language: "fr"
 title: "Premier pas (French) - Longueuil"
-session_language: "fr"
 past: true
 aliases:
 - /en/sessions/session-2013-09-premiers-pas/
