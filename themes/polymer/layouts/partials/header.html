@@ -20,6 +20,8 @@
   <script src="{{$baseurl}}/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
   <link rel="stylesheet" href="{{$baseurl}}/technology/technology.css">
   <link rel="import" href="{{$baseurl}}/technology/technology.html">
+
+  <link rel="import" href="{{$baseurl}}/bower_components/polymer/polymer.html">
   <link rel="import" href="{{$baseurl}}/bower_components/iron-icons/iron-icons.html">
   <link rel="import" href="{{$baseurl}}/bower_components/iron-icons/iron-icons.html">
   <link rel="import" href="{{$baseurl}}/bower_components/iron-icons/communication-icons.html">
@@ -40,8 +42,11 @@
   <link rel="import" href="{{$baseurl}}/bower_components/paper-item/paper-icon-item.html">
   <link rel="import" href="{{$baseurl}}/bower_components/paper-menu/paper-menu.html">
   <link rel="import" href="{{$baseurl}}/bower_components/iron-image/iron-image.html">
-  <link rel="import" href="{{$baseurl}}/fde-elements.html">
-  <link rel="import" href="{{$baseurl}}/featured-courses.html">
+  <script type="module">
+    import { LitElement, html, css } from 'https://cdn.jsdelivr.net/gh/lit/dist@3/core/lit-core.min.js';
+  </script>
+  <script type="module" src="{{$baseurl}}/fde-elements.js"></script>
+  <script type="module" src="{{$baseurl}}/featured-courses.js"></script>
   <style is="custom-style">
   :root {
     --quarter-color: #C5C9DE;
@@ -261,7 +266,7 @@
     width: 420px;
   }
   </style>
-
+</head>
 </head>
 <body unresolved>
 
