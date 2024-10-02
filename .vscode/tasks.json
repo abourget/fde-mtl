@@ -1,0 +1,22 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"command": "hugo",
+			"args": [
+				"server",
+				"-w"
+			],
+			"group": "build",
+			"isBackground": true,
+			"problemMatcher": [],
+			"label": "hugo: Build and watch site",
+			"presentation": {
+				"reveal": "always",
+				"panel": "new",
+				"focus": true
+			}
+		}
+	]
+}

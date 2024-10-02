@@ -82,6 +82,8 @@
   translation: "Register first and then proceed to payment below. If you prefer other means of payment, contact us after your registration. We will accomodate you."
 - id: register_now
   translation: "Register now"
+- id: preregister_now
+  translation: "Pre-register now"
 - id: course_offered_and_starts
   translation: "This course is offered in %s and starts"
 - id: payment_not_open

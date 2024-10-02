@@ -81,7 +81,12 @@
       </div>
 
       <div class="card-actions" hidden$="{{ !details }}">
-        <a href="{{ permalink }}" class="register"><paper-button>{{ register }}</paper-button></a>
+        <template is="dom-if" if="[[register]]">
+          <a href="{{ permalink }}" class="register"><paper-button>{{ register }}</paper-button></a>
+        </template>
+        <template is="dom-if" if="[[preregister]]">
+          <a href="{{ permalink }}" class="register"><paper-button>{{ preregister }}</paper-button></a>
+        </template>
         <a href="{{ permalink }}"><paper-button>{{ details }}</paper-button></a>
       </div>
     </paper-card>
@@ -96,6 +101,10 @@
         value: ""
       },
       register: {
+        type: String,
+        value: ""
+      },
+      preregister: {
         type: String,
         value: ""
       },

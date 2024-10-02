@@ -86,6 +86,8 @@
   translation: "Inscrivez-vous d'abord, puis payez ci-après ensuite. Si vous préférez d'autres modalités de paiements, contactez-nous après votre inscription. Nous trouverons une manière de vous accomoder."
 - id: register_now
   translation: "S'inscrire"
+- id: preregister_now
+  translation: "Se pré-inscrire"
 - id: course_offered_and_starts
   translation: "Ce cours est offert en %s et débute le"
 - id: payment_not_open

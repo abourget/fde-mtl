@@ -39,6 +39,7 @@
                   startdate="{{ i18n "starts" }} {{ $vp.session.start_date }}"
                   details="{{ i18n "details" }}"
                   register="{{ if isset $vp "registration" }}{{ i18n "register_now" }}{{ end }}"
+                  preregister="{{ if isset $vp "preregistration" }}{{ i18n "preregister_now" }}{{ end }}"
                   ></fde-course>
 
     {{ end }}

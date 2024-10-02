@@ -65,11 +65,15 @@
   <google-map-marker longitude="{{ $p.venue.longitude }}" latitude="{{ $p.venue.latitude }}"
                      title="{{ $p.venue.name }}" open="true">
     <h5>{{ $p.venue.name }}</h5>
+    {{ if $p.venue.address }}
     <p>
       {{ $p.venue.address }}{{ if $p.venue.address2 }}
         {{ $p.venue.address2 }}{{ end }}
     </p>
+    {{ end }}
+    {{ if $p.venue.map_link }}
     <p><a href="{{ $p.venue.map_link }}" target="_blank">Google Maps</a></p>
+    {{ end }}
   </google-map-marker>
 </google-map>
 
@@ -81,6 +85,14 @@
   <h3>{{ i18n "cost" }}</h3>
 
   <p>{{ .amount }}$ {{ if .per_couple }}{{ i18n "per_couple" }}{{ else }}{{ i18n "per_person" }}{{ end }}.</p>
+{{ end }}
+
+{{ with $p.preregistration }}
+  {{ if ne .preregistration_form nil}}
+  <p>
+    <a href="{{ .preregistration_form }}" target="_blank"><paper-button primary raised>{{ i18n "preregister_now" }}</paper-button></a>
+  </p>
+  {{ end }}
 {{ end }}
 
 {{ with $p.registration }}
@@ -96,7 +108,7 @@
 
   <ol>
   {{ if ne .registration_form nil}}
-    <li><a href="{{ .registration_form }}" target="_blank"><paper-button raised>{{ i18n "register_now" }}</paper-button></a></li>
+    <li><a href="{{ .registration_form }}" target="_blank"><paper-button primary raised>{{ i18n "register_now" }}</paper-button></a></li>
   {{ end }}
 
   {{ if ne .paypal_item nil }}
