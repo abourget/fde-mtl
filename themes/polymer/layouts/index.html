@@ -32,7 +32,7 @@
       <fde-course image="{{ $vp.session.course_image }}"
                   permalink="{{ $v.Permalink }}"
                   label="{{ $o.Title }}"
-                  past="{{if $vp.past }}{{i18n "past"}}{{end}}"
+                  past="{{ if $vp.past }}{{ i18n "past" }}{{end}}"
                   language="{{ if $vp.session.language }}{{ $vp.session.language }}{{ end }}"
                   venue="{{ $vp.venue.name }}"
                   mapslink="{{ $vp.venue.map_link }}"
