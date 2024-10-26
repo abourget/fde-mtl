@@ -10,11 +10,11 @@ venue:
   latitude: 45.5457264
   longitude: -73.7200166
   zoom: 11
-preregistration:
-  preregistration_form: "https://forms.gle/cqjQ25iahPCQbAvz5"
-#registration:
-#   registration_form: "https://forms.gle/3T2HFBBQtLWyh9KFA"
-#   interac: info@fde-mtl.ca
+#preregistration:
+#  preregistration_form: "https://forms.gle/cqjQ25iahPCQbAvz5"
+registration:
+   registration_form: "https://forms.gle/C7xYKZ8Rt9XP3n7y6"
+   interac: info@fde-mtl.ca
 #   _cash: true
 #   _cheque: ""
 past: false
