@@ -1,26 +1,47 @@
 ---
 date: 2024-10-01T12:01:00
-title: "Adolescence"
+title: "Adolescence - Longueuil"
 session:
-  start_date: "Janvier 2025"
+  start_date: "vendredi, 17 janvier 2025"
   course_image: "adolescence.jpg"
   language: "fr"
 venue:
-  name: "Rive sud de Montréal - Lieu à déterminer"
-  latitude: 45.4972599
-  longitude: -73.4611634
-  zoom: 11.61
-preregistration:
-  preregistration_form: "https://forms.gle/cqjQ25iahPCQbAvz5"
-#registration:
-#   registration_form: "https://forms.gle/3T2HFBBQtLWyh9KFA"
-#   interac: info@fde-mtl.ca
-#   _cash: true
-#   _cheque: ""
-past: false
+  name: "Cégep Édouard-Montpetit"
+  address: "945 Ch. de Chambly, Longueuil, QC J4H 3M6"
+  latitude: 45.5355733
+  longitude: -73.4939362
+  zoom: 17
+schedule:
+  - case: 1
+    date: "vendredi, 17 janvier 2025"
+  - case: 2
+    groups: true
+    date: "vendredi, 21 février 2025"
+  - case: 3
+    groups: true
+    date: "vendredi, 14 mars 2025"
+  - case: 4
+    groups: true
+    date: "vendredi, 11 avril 2025"
+  - case: 5
+    groups: true
+    date: "vendredi, 9 mai 2025"
+  - case: 6
+    groups: true
+    date: "vendredi, 13 juin 2025"
+time:
+  from: "19 h 30"
+  to: "21 h 30"
+cost:
+  amount: 285
+  per_couple: true
+registration:
+  interac: info@fde-mtl.ca
+  cash: true
+  registration_form: "https://forms.gle/p13A2RftS3hqFA9S8"
 ---
 
-Un cours **Adolescence** est planifié pour janvier 2025, sur la rive sud de Montréal.
+Un cours **Adolescence** est offert sur la rive-sud de Montréal, débutant en **janvier 2025**.
 
 ---
 Ce cours s'adresse aux parents d'enfants âgés d'environ 14 à 16 ans.
@@ -42,3 +63,4 @@ Sujets :
 * Renforcer le mariage
 * Connaître votre adolescent
 
+<!--more-->

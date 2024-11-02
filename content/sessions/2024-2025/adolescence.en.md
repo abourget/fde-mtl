@@ -6,21 +6,22 @@ session:
   course_image: "adolescence.jpg"
   language: "fr"
 venue:
-  name: "South Shore of Montreal - Venue to be determined"
-  latitude: 45.4972599
-  longitude: -73.4611634
-  zoom: 11.61
-preregistration:
-  preregistration_form: "https://forms.gle/cqjQ25iahPCQbAvz5"
-#registration:
-#   registration_form: "https://forms.gle/3T2HFBBQtLWyh9KFA"
-#   interac: info@fde-mtl.ca
-#   _cash: true
-#   _cheque: ""
+  name: "Cégep Édouard-Montpetit"
+  address: "945 Ch. de Chambly, Longueuil, QC J4H 3M6"
+  latitude: 45.5355733
+  longitude: -73.4939362
+  zoom: 17  
+registration:
+   registration_form: "https://forms.gle/p13A2RftS3hqFA9S8"
+   interac: info@fde-mtl.ca
+   cash: true
 past: false
 ---
 
-An **Adolescence** course is planned for January 2025, on the South Shore of Montreal.
+
+An **Adolescence** course starts in January 2025, in French.
+
+Register here: https://fde-mtl.ca/fr/sessions/2024-2025/adolescence/
 
 ---
 
