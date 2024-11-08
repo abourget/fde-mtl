@@ -2,7 +2,7 @@
 date: 2024-09-20T12:01:00-04:00
 title: "Personal Project"
 session:
-  start_date: "NEW DATE: January 18th, 2025"
+  start_date: "January 18th, 2025 (NEW DATE)"
   course_image: "young-professionals.jpg"
   language: "en"
 venue:
