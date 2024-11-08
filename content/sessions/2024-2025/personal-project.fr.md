@@ -2,7 +2,7 @@
 date: 2024-09-20T12:01:00-04:00
 title: "Personal Project (anglais)"
 session:
-  start_date: "Novembre 2024"
+  start_date: "Janvier 2025"
   course_image: "young-professionals.jpg"
   language: "en"
 venue:
@@ -17,6 +17,6 @@ registration:
 past: false
 ---
 
-Un cours **Personal Project** est planifié pour Novembre 2024 à Montréal, en [anglais](/en/sessions/2024-2025/personal-project/).
+Un cours **Personal Project** est planifié pour janvier 2025 à Montréal, en [anglais](/en/sessions/2024-2025/personal-project/).
 
 <!--more-->
