@@ -25,9 +25,9 @@ schedule:
  - case: 5
    groups: true
    date: "Saturday, May 24, 2025"
-#time:
-#  from: "19 h 30"
-#  to: "21 h 00"
+time:
+  from: "4pm"
+  to: "6pm"
 #preregistration:
 #  preregistration_form: "https://forms.gle/cqjQ25iahPCQbAvz5"
 registration:
