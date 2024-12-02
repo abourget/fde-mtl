@@ -23,6 +23,8 @@ An **Adolescence** course starts in January 2025, in French.
 
 Register here: https://fde-mtl.ca/fr/sessions/2024-2025/adolescence/
 
+For more information, contact us at: info@fde-mtl.ca
+
 ---
 
 This course is for parents with children around 14 to 16 years old.

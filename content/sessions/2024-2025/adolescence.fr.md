@@ -45,6 +45,8 @@ Un cours **Adolescence** est offert sur la rive-sud de Montréal, débutant en *
 
 Il aura lieu dans la Salle de réunion B105a du Cégep Édouard-Montpetit, 945 Ch. de Chambly, Longueuil, QC J4H 3M6.
 
+Pour plus d'informations, contactez-nous à: info@fde-mtl.ca 
+
 ---
 Ce cours s'adresse aux parents d'enfants âgés d'environ 14 à 16 ans.
 
