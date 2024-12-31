@@ -8,6 +8,7 @@ session:
 venue:
   name: "UQAM - Room PK-1140"
   address: "201 Av. du Président-Kennedy, Montréal, QC H2X 3Y7"
+  map_link: https://maps.app.goo.gl/ahWkjvwTQnrmnaKa9
   latitude: 45.5088041
   longitude: -73.5686408
   zoom: 16
