@@ -6,10 +6,12 @@ session:
   course_image: "young-professionals.jpg"
   language: "en"
 venue:
-  name: "Montreal - Venue to be determined"
-  latitude: 45.5457264
-  longitude: -73.7200166
-  zoom: 11
+  name: "UQAM - Room PK-1140"
+  address: "201 Av. du Président-Kennedy, Montréal, QC H2X 3Y7"
+  https://maps.app.goo.gl/ahWkjvwTQnrmnaKa9
+  latitude: 45.5088041
+  longitude: -73.5686408
+  zoom: 16
 schedule:
  - case: 1
    date: "Saturday, January 18, 2025"
