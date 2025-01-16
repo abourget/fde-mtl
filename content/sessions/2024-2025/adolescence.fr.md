@@ -30,7 +30,7 @@ time:
   from: "19 h 30"
   to: "21 h 30"
 cost:
-  amount: 285
+  amount: 250
   per_couple: true
 registration:
   interac: info@fde-mtl.ca
