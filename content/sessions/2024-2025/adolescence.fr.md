@@ -2,7 +2,7 @@
 date: 2024-10-01T12:01:00
 title: "Adolescence - Longueuil"
 session:
-  start_date: "vendredi, 17 janvier 2025"
+  start_date: "vendredi, 21 février 2025"
   course_image: "adolescence.jpg"
   language: "fr"
 venue:
@@ -13,20 +13,17 @@ venue:
   zoom: 17
 schedule:
   - case: 1
-    date: "vendredi, 17 janvier 2025"
+    date: "vendredi, 21 février 2025"
   - case: 2
     groups: true
-    date: "vendredi, 21 février 2025"
+    date: "vendredi, 14 mars 2025"
   - case: 3
     groups: true
-    date: "vendredi, 14 mars 2025"
+    date: "vendredi, 11 avril 2025"
   - case: 4
     groups: true
-    date: "vendredi, 11 avril 2025"
-  - case: 5
-    groups: true
     date: "vendredi, 9 mai 2025"
-  - case: 6
+  - case: 5
     groups: true
     date: "vendredi, 13 juin 2025"
 time:
@@ -41,7 +38,7 @@ registration:
   registration_form: "https://forms.gle/p13A2RftS3hqFA9S8"
 ---
 
-Un cours **Adolescence** est offert sur la rive-sud de Montréal, débutant en **janvier 2025**.
+Un cours **Adolescence** est offert sur la rive-sud de Montréal, débutant en **février 2025** (**attention**, date de début changée)
 
 Il aura lieu dans la Salle de réunion B105a du Cégep Édouard-Montpetit, 945 Ch. de Chambly, Longueuil, QC J4H 3M6.
 

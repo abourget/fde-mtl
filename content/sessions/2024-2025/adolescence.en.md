@@ -2,7 +2,7 @@
 date: 2024-10-01T12:01:00
 title: "Adolescence (French)"
 session:
-  start_date: "January 2025"
+  start_date: "February 2025"
   course_image: "adolescence.jpg"
   language: "fr"
 venue:
@@ -10,7 +10,7 @@ venue:
   address: "945 Ch. de Chambly, Longueuil, QC J4H 3M6"
   latitude: 45.5355733
   longitude: -73.4939362
-  zoom: 17  
+  zoom: 17
 registration:
    registration_form: "https://forms.gle/p13A2RftS3hqFA9S8"
    interac: info@fde-mtl.ca
