@@ -26,6 +26,9 @@ schedule:
    date: "Saturday, April 12, 2025"
  - case: 5
    groups: true
+   date: "Saturday, May 3rd, 2025"
+ - case: 6
+   groups: true
    date: "Saturday, May 24, 2025"
 time:
   from: "4pm"
@@ -42,6 +45,8 @@ past: false
 ---
 
 A **Personal Project** course is scheduled for January 18th 2025, in Montreal.
+
+**NOTE**: Note the May 3rd course that was missing and was added to the schedule.
 
 ---
 This course is designed to help young professionals plan and
